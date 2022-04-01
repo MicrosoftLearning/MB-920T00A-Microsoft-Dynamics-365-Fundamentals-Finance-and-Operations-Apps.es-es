@@ -1,28 +1,33 @@
 ---
 lab:
-    title: 'Laboratorio 6: Crear un pedido de producción'
-    module: 'Módulo 1: Aprender los fundamentos de Microsoft Dynamics 365 Supply Chain Management'
+  title: 'Laboratorio 6: Crear un pedido de producción'
+  module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+ms.openlocfilehash: 222c557f935bc0dcfaa4f2e96049774f141ea028
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909728"
 ---
+## <a name="lab-6---create-a-production-order"></a>Laboratorio 6: Crear un pedido de producción
 
-## Laboratorio 6: Crear un pedido de producción
-
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 El pedido de producción contiene información sobre lo que se va a producir, cuánto se va a producir y la fecha de finalización planificada. También contiene información sobre qué materiales consumir y qué proceso seguir para producir el artículo.
 
 Debe crear un nuevo pedido de producción para su empresa.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-   - **Tiempo estimado**: 5 minutos
+   - **Tiempo estimado**: 5 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 1. En la página de inicio de Finance and Operations, en la parte superior derecha, compruebe que esté trabajando con la empresa USMF.
 
 1. Si es necesario, seleccione la empresa y, en el menú, seleccione **USMF**.
 
-1. En el panel de navegación izquierdo, seleccione **Módulos** > **Control de producción** > **Pedidos de producción** > **Todos los pedidos de producción**.
+1. En el panel de navegación izquierdo, seleccione **Módulos** > **Control de producción** > **Pedidos de producción** > **Todos los pedidos de producción**.
 
 1. En el menú superior, seleccione **Nuevo pedido de producción**.
 

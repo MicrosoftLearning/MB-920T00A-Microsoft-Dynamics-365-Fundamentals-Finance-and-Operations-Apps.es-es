@@ -1,22 +1,27 @@
 ---
 lab:
-    title: 'Laboratorio 4: Crear un pedido de compra'
-    module: 'Módulo 1: Aprender los fundamentos de Microsoft Dynamics 365 Supply Chain Management'
+  title: 'Laboratorio 4: Crear un pedido de compra'
+  module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+ms.openlocfilehash: 04c349859896368763e172203a4bec80073c35bf
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909975"
 ---
+# <a name="module-1-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>Módulo 1: Obtener información sobre los fundamentos de Microsoft Dynamics 365 Supply Chain Management
 
-# Módulo 1: Obtener información sobre los fundamentos de Microsoft Dynamics 365 Supply Chain Management
+## <a name="lab-4---create-a-purchase-order"></a>Laboratorio 4: Crear un pedido de compra
 
-## Laboratorio 4: Crear un pedido de compra
-
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Es más común que los pedidos de compra se creen automáticamente como resultado de la planificación maestra, la entrega directa y otros procesos. Cuando se crean de forma manual, los pedidos de compra suelen crearse por un agente de compras. Crear un pedido de compra mediante la empresa USMF.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-   - **Tiempo estimado**: 10 minutos
+   - **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 1. En la página de inicio de Finance and Operations, en la parte superior derecha, compruebe que esté trabajando con la empresa USMF.
 

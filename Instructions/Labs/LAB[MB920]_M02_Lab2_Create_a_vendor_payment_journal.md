@@ -1,12 +1,17 @@
 ---
 lab:
-    title: 'Laboratorio 2: Crear un diario de pagos a proveedores'
-    module: 'Módulo 2: Aprender los Fundamentos de Microsoft Dynamics 365 Finance'
+  title: 'Laboratorio 2: Crear un diario de pagos de un proveedor'
+  module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
+ms.openlocfilehash: cc38bf9c77d8b5d45e8a27f0a8f766d7834e065a
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137910086"
 ---
+## <a name="lab-2---create-a-vendor-payment-journal"></a>Laboratorio 2: Crear un diario de pagos a proveedores
 
-## Laboratorio 2: Crear un diario de pagos a proveedores
-
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Las organizaciones que pagan a proveedores de forma periódica pueden ahora automatizar el proceso de generación de propuestas de pago a proveedores. Las automatizaciones de propuestas de pago a proveedores definen los siguientes detalles:
 
@@ -18,17 +23,17 @@ Las automatizaciones de las propuestas de pago no registran automáticamente los
 
 Crear una nueva entrada en el diario de pagos a proveedores y propuesta de pago.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-   - **Tiempo estimado**: 10 minutos
+   - **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 1. En la página de inicio de Finance and Operations, en la parte superior derecha, compruebe que esté trabajando con la empresa USMF.
 
 1. Si es necesario, seleccione la empresa y, en el menú, seleccione **USMF**.
 
-1. En el panel de navegación izquierdo, seleccione **Módulos** > **Cuentas por pagar** > **Pagos** > **Diario de pagos a proveedores**.
+1. En el panel de navegación izquierdo, seleccione **Módulos** > **Proveedores** > **Pagos** > **Diario de pagos del proveedor**.
 
 1. En el menú superior, seleccione **+ Nuevo**.
 
@@ -47,7 +52,7 @@ Crear una nueva entrada en el diario de pagos a proveedores y propuesta de pago.
 
 1. En **Fecha desde** y **Fecha hasta**, elimine cualquier valor existente. Para este ejercicio, estos rangos de fechas se dejarán en blanco.
 
-    >[!NOTA] Puede utilizarse una fecha de pago mínima como fecha de pago. La fecha de pago mínima será la fecha más temprana utilizada al crear los pagos. Por ejemplo, si una factura tiene una fecha de vencimiento posterior a la fecha de pago mínima, la fecha de vencimiento pasará a ser la fecha de pago, en lugar de la fecha de pago mínima, con la que se pagaría la factura en la última fecha posible.
+    >[!NOTE] Puede utilizarse una fecha de pago mínima como fecha de pago. La fecha de pago mínima será la fecha más temprana utilizada al crear los pagos. Por ejemplo, si una factura tiene una fecha de vencimiento posterior a la fecha de pago mínima, la fecha de vencimiento pasará a ser la fecha de pago, en lugar de la fecha de pago mínima, con la que se pagaría la factura en la última fecha posible.
 
 1. Expanda **Registros que incluir** y revise las opciones.  
     El filtro se usa a menudo para restringir las facturas seleccionadas para el pago por grupo de proveedores o método de pago. Por ejemplo, puede agregar un filtro para pagar las facturas solo mediante cheque en esta ejecución de pagos.

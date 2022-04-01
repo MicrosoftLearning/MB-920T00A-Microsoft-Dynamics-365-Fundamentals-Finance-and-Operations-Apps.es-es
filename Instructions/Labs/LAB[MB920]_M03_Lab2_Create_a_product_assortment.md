@@ -1,20 +1,25 @@
 ---
 lab:
-    title: 'Laboratorio 2: Crear un surtido de productos'
-    module: 'Módulo 3: Aprender los fundamentos de Microsoft Dynamics 365 Commerce'
+  title: 'Laboratorio 2: Crear un surtido de productos'
+  module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Commerce'
+ms.openlocfilehash: d6c414c266f0403139dc31de38f602b5a0290ef5
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137910178"
 ---
+## <a name="lab-2---create-a-product-assortment"></a>Laboratorio 2: Crear un surtido de productos
 
-## Laboratorio 2: Crear un surtido de productos
-
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Debe crear un surtido de productos relacionados que se asignen a un canal de comercio específico que estará disponible en una fecha futura.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-   - **Tiempo estimado**: 10 minutos
+   - **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 1. En la página Finance and Operations, en la parte superior izquierda, seleccione el menú de hamburguesa **Expandir el panel de navegación**.
 
@@ -38,7 +43,7 @@ Debe crear un surtido de productos relacionados que se asignen a un canal de com
 
 1. En el menú Canales de Commerce, seleccione **+ Agregar línea**.
 
-1. En Elegir nodos de organización, seleccione el menú **Jerarquía organizativa**, a continuación, seleccione **Tiendas por tipo (Fabrikam)**.
+1. En Elegir nodos de organización, seleccione el menú **Jerarquía organizativa**, a continuación, seleccione **Tiendas por tipo (Fabrikam)** .
 
 1. En la lista NODOS ORGANIZATIVOS DISPONIBLES, seleccione En línea y luego el icono agregar ![Icono de flecha derecha](./media/d365-fo-add-org-node-icon.png) para agregarlo a los **NODOS ORGANIZATIVOS SELECCIONADOS**.  
   Esto agregará el nodo principal y todos los nodos secundarios.
@@ -57,7 +62,7 @@ Debe crear un surtido de productos relacionados que se asignen a un canal de com
 
 1. Revise la última columna llamada **Tipo de línea**. De manera predeterminada, se incluirán todos los elementos.
 
-1. Seleccione **+ Agregar línea**, el menú **Categoría**, expanda **Deportes de equipo (deportes de equipo)**, **Béisbol** y, a continuación, **Aceptar**.
+1. Seleccione **+ Agregar línea**, el menú **Categoría**, expanda **Deportes de equipo (deportes de equipo)** , **Béisbol** y, a continuación, **Aceptar**.
 
 1. Para excluir un artículo de una categoría mayor ya incluida, en este caso Deportes de equipo, en la columna Tipo de línea, cambie el valor a **Excluir**.
 

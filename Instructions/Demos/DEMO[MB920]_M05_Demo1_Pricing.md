@@ -1,10 +1,15 @@
 ---
 demo:
-    title: 'Demo 1: Precios de Project Operations'
-    module: 'Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations'
+  title: 'Demostración 1: Precios de Project Operations'
+  module: 'Module 5: Learn the Fundamentals of Microsoft Dynamics 365 Project Operations'
+ms.openlocfilehash: bbe3de969557591700be5874c7c709b74d1d286a
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909768"
 ---
-
-## Demo 1: Precios de Project Operations
+## <a name="demo-1---project-operations-pricing"></a>Demo 1: Precios de Project Operations
 
 1. Vaya al área de trabajo **Administración de proyectos**.  
     En esta demo, configuraremos los precios de las venta y coste en Project Operations. También veremos cómo el coste y los precios derivan de una factura registrada previamente.
@@ -30,7 +35,7 @@ demo:
 
 1. Vaya al área de trabajo **Administración de proyectos**.
 
-1. En la parte derecha de la pantalla, en el submenú **Configuración** de la sección **Vínculos**, seleccione **Precio de venta (hora)**.
+1. En la parte derecha de la pantalla, en el submenú **Configuración** de la sección **Vínculos**, seleccione **Precio de venta (hora)** .
 
 1. En la página **Precio de venta: hora**, en la columna **Precios** de la tabla, apunte a **350**.  
 Desde esta vista, podemos ver dónde se configuró el precio de venta de 350 dólares de Aaron Con.
@@ -52,12 +57,12 @@ Desde esta vista, podemos ver dónde se configuró el precio de venta de 350 dó
 
     ![Una captura de pantalla de la página Diario de factura con la columna Id. de transacción resaltada.](./media/projops_prices_4_select_a_transaction_id.png)
 
-1. En la página **Transacciones por horas**, seleccione la pestaña **Información general**. En la columna **Precio de coste** de la tabla que aparece, apunte a **200**.  
+1. En la página **Transacciones por horas**, seleccione la pestaña  **Información general**. En la columna **Precio de coste** de la tabla que aparece, apunte a **200**.  
     Desde la vista de transacciones por hora, podremos ver la entrada para Aaron Con y el precio de coste asociado de 200 $. Volvamos y revisemos la configuración del precio de coste para ver cómo ha derivado la tasa de coste.
 
 1. Vaya al área de trabajo **Administración de proyectos**.
 
-1. En la parte derecha de la pantalla, en el submenú **Configuración** de la sección **Vínculos**, seleccione **Precio de coste (hora)**.
+1. En la parte derecha de la pantalla, en el submenú **Configuración** de la sección **Vínculos**, seleccione **Precio de coste (hora)** .
 
 1. En la tabla de la página **Precio de coste: hora Vista estándar**, apunte a la fila con **01/01/2014** de la columna **Fecha de vigencia**, a **Director de proyectos** de la columna **Categoría** y a **200** de la columna **Precio de coste**, pero a ningún valor del resto de columnas.  
     Desde esta vista se puede ver el precio de coste de 200 $ que se ha configurado específicamente para la categoría de Director de proyectos, pero no hay otras líneas específicas para Aaron o para nuestro proyecto de consultoría Contoso. Esta también es una práctica común, ya que muchas organizaciones de servicios aplican tarifas de coste estándares en todas las categorías, identificada en este caso como rol de proyecto. Este coste suele ser una tarifa combinada en la que la tasa de pago de recursos individuales solo se guardará en la nómina o en el sistema de recursos humanos. Después, la tasa de coste estándar se ajustará de forma periódica a medida que se van analizando los costes de nómina para garantizar que estos sean precisos y que se cumplan los márgenes.
@@ -66,6 +71,6 @@ Desde esta vista, podemos ver dónde se configuró el precio de venta de 350 dó
 
 1. Vaya al área de trabajo **Administración de proyectos**.
 
-1. En la parte derecha de la pantalla, en el submenú **Configuración**, apunte a las secciones **Precio de coste (hora)** y **Precio de venta (hora)**.  
+1. En la parte derecha de la pantalla, en el submenú **Configuración**, apunte a las secciones **Precio de coste (hora)** y **Precio de venta (hora)** .  
 
 En esta demostración hemos analizado cómo se configuran los precios de venta y coste estándares en Project Operations. Hemos analizado también su impacto en una factura registrada para conocer cómo afecta directamente la configuración de estos precios a la factura de tiempo y material presentada.

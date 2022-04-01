@@ -1,20 +1,25 @@
 ---
 lab:
-    title: 'Laboratorio 1: Crear un producto con descuento'
-    module: 'Módulo 3: Aprender los fundamentos de Microsoft Dynamics 365 Commerce'
+  title: 'Laboratorio 1: Crear un nuevo producto con descuento'
+  module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Commerce'
+ms.openlocfilehash: 2d3a61398c6184a9b43e2fd0da9d28cb55f55ee5
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137910011"
 ---
+## <a name="lab-1---create-a-discount-product"></a>Laboratorio 1: Crear un producto con descuento
 
-## Laboratorio 1: Crear un producto con descuento
-
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 La tienda de Boston de su empresa está lista para impulsar las ventas de algunos productos que deben venderse para dejar espacio a la nueva línea. Debe crear y activar un nuevo descuento de producto.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-   - **Tiempo estimado**: 10 minutos
+   - **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 1. En la página Finance and Operations, en la parte superior izquierda, seleccione el menú de hamburguesa **Expandir el panel de navegación**.
 
@@ -32,7 +37,7 @@ La tienda de Boston de su empresa está lista para impulsar las ventas de alguno
 
 1. Seleccione el menú **Modo de simultaneidad de descuentos**, revise las opciones disponibles y luego elija **Mejor precio**.
 
-    >[!NOTA] Al elegir entre las opciones del modo de simultaneidad, tenga en cuenta lo siguiente:
+    >[!NOTE] Al elegir entre las opciones del modo de simultaneidad, tenga en cuenta lo siguiente:
     >
     >  - Cuando se aplican varios descuentos simultáneos, siempre se calculará primero el descuento mayor.  El siguiente descuento más alto se calcula entonces sobre el importe pendiente.  Esta jerarquía de cálculo continuará hasta que se hayan aplicado todos los descuentos simultáneos aplicables.  
     >    **Correcto**: 40 % de descuento + 20 % de descuento = 52 % de descuento  
@@ -70,7 +75,7 @@ La tienda de Boston de su empresa está lista para impulsar las ventas de alguno
 
 1. En el menú, seleccione **+ Agregar**.
 
-1. Seleccione el menú **Categoría** y luego elija **Moda (Moda)**.
+1. Seleccione el menú **Categoría** y luego elija **Moda (Moda)** .
 
 1. Esto aplicará el descuento a todos los productos de la categoría Moda.
 

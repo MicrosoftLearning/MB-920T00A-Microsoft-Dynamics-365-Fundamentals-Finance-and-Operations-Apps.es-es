@@ -1,10 +1,15 @@
 ---
 demo:
-    title: 'Demo 1: Asignar cursos de aprendizaje'
-    module: 'Módulo 4: Aprender los Fundamentos de Microsoft Dynamics 365 Human Resources'
+  title: 'Demostración 1: Asignar cursos de aprendizaje'
+  module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Human Resources'
+ms.openlocfilehash: 06483c659174e77391b0181963299d51f2011d35
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909717"
 ---
-
-## Demo 1: Asignar cursos de aprendizaje
+## <a name="demo-1---assigning-learning-courses"></a>Demo 1: Asignar cursos de aprendizaje
 
 1. Vaya a la página principal de **Microsoft Dynamics 365 Human Resources**.  
     En Microsoft Dynamics 365 Human Resources, la administración de personal puede asignar cursos de aprendizaje a los empleados. En este ejemplo, debe asignarse a la nueva contratación de la empresa, Alicia, el aprendizaje disponible para los empleados durante sus primeros treinta días.
@@ -51,7 +56,7 @@ demo:
 
 1. En el calendario, seleccione la fecha de finalización del aprendizaje. Por ejemplo, **8 de enero de 2021**.
 
-1. En el lado izquierdo de la página **Cursos**, seleccione **Guardar** para guardar los cambios..
+1. En el lado izquierdo de la página **Cursos**, seleccione **Guardar** para guardar los cambios.
 
 1. En el lado derecho de la página **Cursos**, seleccione **X** para cerrar la página.  
     Si necesita cambiar algún curso asignado, seleccione Cursos de nuevo.

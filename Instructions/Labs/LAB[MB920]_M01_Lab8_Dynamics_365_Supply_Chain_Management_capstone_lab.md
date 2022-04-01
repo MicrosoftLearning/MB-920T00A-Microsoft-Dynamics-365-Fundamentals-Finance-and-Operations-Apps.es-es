@@ -1,22 +1,27 @@
 ---
 lab:
-    title: 'Laboratorio 8: Laboratorio de proyecto final de Dynamics 365 Supply Chain Management'
-    module: 'Módulo 1: Aprender los fundamentos de Microsoft Dynamics 365 Supply Chain Management'
+  title: 'Laboratorio 8: Laboratorio de proyecto final para Dynamics 365 Supply Chain Management'
+  module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+ms.openlocfilehash: 05fc7cf7a81164c2cabf3637e307dcae2ca5d3f7
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137910035"
 ---
+## <a name="lab-8---dynamics-365-supply-chain-management-capstone-lab"></a>Laboratorio 8: Laboratorio de proyecto final de Dynamics 365 Supply Chain Management
 
-## Laboratorio 8: Laboratorio de proyecto final de Dynamics 365 Supply Chain Management
-
-## Objetivo
+## <a name="objective"></a>Objetivos
 
 En este laboratorio, explorará la creación de productos y el mantenimiento de los precios También revisará los procesos empresariales clave de las cadenas de suministro, como la gestión de inventarios, adquisiciones y abastecimiento.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-- **Tiempo estimado**: 45 minutos 
+- **Tiempo estimado**: 45 minutos 
 
-## Ejercicio 1: Explorar la administración de productos
+## <a name="exercise-1-explore-product-management"></a>Ejercicio 1: Explorar la administración de productos
 
-### Crear un producto
+### <a name="create-a-product"></a>Creación de un producto
 
 En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para un recinto de altavoces recién configurado que se comprará a los proveedores.
 
@@ -24,13 +29,13 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. De no ser así, seleccione la empresa enumerada actualmente y cambie la empresa a **USMF**.
 
-1. En el panel de navegación, seleccione **Módulos** > **Gestión de información de productos** > **Productos** > **Productos liberados**.
+1. En el panel de navegación, seleccione **Módulos** > **Gestión de información de productos** > **Productos** > **Productos liberados**.
 
 1. En la página Detalles de producto liberado, en el panel de acciones, seleccione **+ Nuevo**.
 
 1. En el panel **Nuevo producto liberado**, en el menú **Tipo de producto**, compruebe que **Artículo** está seleccionado.
 
-1. En el menú **Subtipo de producto**, compruebe que **Producto** está seleccionado.
+1. En el menú **Subtipo de producto**, verifique que **Producto** está seleccionado.
 
 1. Seleccione el menú **Grupo de dimensiones de seguimiento** y luego **Ninguno**.
 
@@ -46,7 +51,7 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. En el cuadro **Precio de venta**, escriba **30,00**.
 
-1. En **GRUPOS DE REFERENCIA**, seleccione el menú **Grupo de modelos de artículo** y luego **FIFO (el primero en entrar; el primero en salir)**.
+1. En **GRUPOS DE REFERENCIA**, seleccione el menú **Grupo de modelos de artículo** y luego **FIFO (el primero en entrar; el primero en salir)** .
 
 1. Seleccione el menú **Grupo de artículo** y luego **Audio para automóvil**.
 
@@ -54,12 +59,12 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. En **UNIDADES DE MEDIDAS**, compruebe que se establezcan los siguientes valores:
 
-    | **Parámetro**| **Valor**|
+    | **Configuración**| **Valor**|
     | :--- | :--- |
-    | Unidad de inventario| ud.|
-    | Unidad de compra| ud.|
-    | Unidad de ventas| ud.|
-    | Unidad de BOM| ud.|
+    | Unidad de inventario| ea|
+    | Unidad de compra| ea|
+    | Unidad de ventas| ea|
+    | Unidad de L. MAT| ea|
 
 1. Seleccione **Aceptar**.
 
@@ -69,9 +74,9 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. Cierre todas las páginas y vuelva a la página de inicio.
 
-## Ejercicio 2: Explorar la gestión de almacenes
+## <a name="exercise-2-explore-warehouse-management"></a>Ejercicio 2: Explorar la gestión de almacenes
 
-### Crear un almacén
+### <a name="create-a-warehouse"></a>Crear un almacén
 
 1. En el panel de navegación, seleccione **Módulos** > **Gestión de inventarios** > **Configuración** > **Desglose del inventario** > **Almacenes**.
 
@@ -91,13 +96,13 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. Establezca la opción **Incluir estante** en **Sí**.
 
-1. En el cuadro **Formato**, para el estante, especifique **-##**.
+1. En el cuadro **Formato**, para el estante, escriba **-##** .
 
 1. En el panel de acciones, seleccione **Almacén**.
 
 1. En **Mantener**, seleccione **Asistente para ubicación**.
 
-1. En la página principal, revise la información y, después, en la esquina inferior derecha, seleccione **Siguiente**.
+1. En la página de bienvenida, revise la información y, a continuación, en la esquina inferior derecha, seleccione **Siguiente**.
 
 1. Desmarque las casillas **Muelles de llegada** y **Ubicaciones de almacenaje**.
 
@@ -107,7 +112,7 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. Cierre la página y vuelva a la página de inicio.
 
-### Crear un acuerdo comercial para el precio de venta
+### <a name="create-a-trade-agreement-for-sales-price"></a>Crear un acuerdo comercial para el precio de venta
 
 1. En el panel de navegación, seleccione **Módulos** > **Gestión de información de productos** > **Productos** > **Productos liberados**.
 
@@ -155,9 +160,9 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. Cierre las páginas y vuelva a la página de inicio.
 
-## Ejercicio 3: Explorar la administración de la producción
+## <a name="exercise-3-explore-production-management"></a>Ejercicio 3: Explorar la administración de la producción
 
-### Crear un pedido de producción para un producto
+### <a name="create-a-production-order-for-a-product"></a>Crear un pedido de producción para un producto
 
 1. En el panel de navegación, seleccione **Módulos** > **Control de producción** > **Pedidos de producción** > **Todos los pedidos de producción**.
 
@@ -175,9 +180,9 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. Cierre todas las páginas y vuelva a la página de inicio.
 
-## Ejercicio 4: Explorar la gestión de inventarios
+## <a name="exercise-4-explore-inventory-management"></a>Ejercicio 4: Explorar la gestión de inventarios
 
-### Crear un diario de recuento con el producto para el almacén creado
+### <a name="create-a-count-journal-with-the-product-for-the-created-warehouse"></a>Crear un diario de recuento con el producto para el almacén creado
 
 1. En el panel de navegación, seleccione **Módulos** > **Gestión de inventarios** > **Entradas de diario** > **Recuento de artículos > Recuento**.
 
@@ -201,13 +206,13 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. En el panel **Comprobar diario**, seleccione **Aceptar**.
 
-1. En el panel de acciones, seleccione **Registrar**.
+1. En el panel de acciones seleccione **Registrar**.
 
 1. En el panel **Registrar diario**, seleccione **Aceptar**.
 
 1. Cierre todas las páginas y vuelva a la página de inicio.
 
-### Comprobar el inventario disponible para el producto
+### <a name="check-on-hand-inventory-for-the-product"></a>Comprobar el inventario disponible para el producto
 
 1. En el panel de navegación, seleccione **Módulos** > **Gestión de inventarios** > **Consultas e informes** > **Lista disponible**.
 
@@ -221,9 +226,9 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. Cierre todas las páginas y vuelva a la página de inicio.
 
-## Ejercicio 5: Explorar la adquisición y el abastecimiento
+## <a name="exercise-5-explore-procurement-and-sourcing"></a>Ejercicio 5: Explorar la adquisición y el abastecimiento
 
-### Crear un pedido de compra con un producto
+### <a name="create-a-purchase-order-with-a-product"></a>Crear un pedido de compra con un producto
 
 1. En el panel de navegación, seleccione **Módulos** > **Adquisición y abastecimiento** > **Pedidos de compra** > **Todos los pedidos de compra**.
 

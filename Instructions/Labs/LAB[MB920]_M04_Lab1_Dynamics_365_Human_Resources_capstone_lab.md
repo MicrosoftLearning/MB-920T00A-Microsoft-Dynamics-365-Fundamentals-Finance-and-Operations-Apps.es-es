@@ -1,22 +1,27 @@
 ---
 lab:
-    title: 'Laboratorio 1: Laboratorio de proyecto final de Dynamics 365 Human Resources'
-    module: 'Módulo 4: Aprender los Fundamentos de Microsoft Dynamics 365 Human Resources'
+  title: 'Laboratorio 1: Laboratorio de proyecto final de Dynamics 365 Human Resources'
+  module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Human Resources'
+ms.openlocfilehash: e1d0f9974a3c1d6f4b31bb62733153850e2c86b0
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137910180"
 ---
+## <a name="lab-1---dynamics-365-human-resources-capstone-lab"></a>Laboratorio 1: Laboratorio de proyecto final de Dynamics 365 Human Resources
 
-## Laboratorio 1: Laboratorio de proyecto final de Dynamics 365 Human Resources
-
-## Objetivo
+## <a name="objective"></a>Objetivos
 
 En este laboratorio, explorará el proceso de incorporación para un nuevo empleado, incluida la creación de un registro de empleado. También revisará el proceso de evaluaciones de rendimiento, que incluyen el establecimiento de objetivos y la evaluación del desempeño. Además, utilizará características de autoservicio para enviar un informe de gastos.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-- **Tiempo estimado**: 20 minutos 
+- **Tiempo estimado**: 20 minutos 
 
-## Ejercicio 1: Explorar Human Resources
+## <a name="exercise-1-explore-human-resources"></a>Ejercicio 1: Explorar Dynamics 365 Human Resources
 
-### Crear un registro de nueva contratación
+### <a name="create-a-new-hire-record"></a>Crear un registro de nueva contratación
 
 1. En el panel de navegación, seleccione **Módulos** > **Recursos humanos** > **Puestos** > **Puestos**.
 
@@ -32,13 +37,13 @@ En este laboratorio, explorará el proceso de incorporación para un nuevo emple
 
 1. En el panel **Contratar trabajador nuevo**, especifique las siguientes actualizaciones y luego seleccione **Contratar y agregar detalles**.
 
-    | **Parámetro** | **Valor** |
+    | **Configuración** | **Valor** |
     | :--- | :---- |
     | Nombre | Bill |
-    | Apellidos | Smith |
+    | Apellido | Smith |
     | Fecha inicial del empleo | Seleccione la fecha actual|
 
-### Crear un objetivo para la nueva contratación
+### <a name="create-a-goal-for-the-new-hire"></a>Crear un objetivo para la nueva contratación
 
 1. En el panel de acciones, seleccione **Trabajador**.
 
@@ -50,11 +55,11 @@ En este laboratorio, explorará el proceso de incorporación para un nuevo emple
 
 1. En la ficha desplegable **General**, especifique las siguientes actualizaciones:
 
-    | **Parámetro** | **Valor** |
+    | **Configuración** | **Valor** |
     | :--- | :---- |
     | Nombre | Objetivo de ventas trimestral |
     | Información general | Ayude al equipo de la tienda a alcanzar el objetivo de ventas trimestral. |
-    | Categoría del objetivo | Ventas |
+    | Categoría del objetivo | Sales |
     | Fecha de inicio | Seleccione una fecha una semana después de la fecha actual |
     | Fecha de finalización | Seleccione una fecha 2 semanas después de la fecha de inicio |
 
@@ -62,9 +67,9 @@ En este laboratorio, explorará el proceso de incorporación para un nuevo emple
 
 1. Cierre la página Objetivo de ventas trimestral.
 
-1. Cierre los objetivos | Página de Bill.
+1. Cierre la página Objetivos | Bill.
 
-### Asignar cursos de aprendizaje a la nueva contratación
+### <a name="assign-learning-course-to-the-new-hire"></a>Asignar cursos de aprendizaje a la nueva contratación
 
 1. En la página Empleados de Bill, en el panel de acciones, seleccione **Trabajador**.
 
@@ -84,9 +89,9 @@ En este laboratorio, explorará el proceso de incorporación para un nuevo emple
 
 1. En el panel de acciones, seleccione **Guardar**.
 
-1. Cierre los cursos | Página de Bill.
+1. Cierre la página Cursos | Bill.
 
-### Crear un informe de gastos
+### <a name="create-an-expense-report"></a>Crear un informe de gastos
 
 1. En el panel de navegación, seleccione **Módulos** > **Recursos humanos** > **Áreas de trabajo** > **Autoservicio para empleados**.
 
@@ -96,12 +101,12 @@ En este laboratorio, explorará el proceso de incorporación para un nuevo emple
 
 1. En la cuadrícula **Gastos**, en la línea de gastos nueva, especifique las siguientes actualizaciones:
 
-    | **Parámetro** | **Valor** |
+    | **Configuración** | **Valor** |
     | :--- | :---- |
     | Fecha de transacción | Seleccionar la fecha de hoy |
     | Categoría de gastos | Alquiler de vehículo |
     | Comerciante | LitWare Travel |
-    | Importe de la transacción | 150,00 |
+    | Importe de la transacción | 150.00 |
 
 1. Con la máquina virtual del laboratorio, abra el **Bloc de notas**.
 
@@ -117,7 +122,7 @@ En este laboratorio, explorará el proceso de incorporación para un nuevo emple
 
 1. En el panel **Recibos de encabezado**, seleccione **Cargar y adjuntar nuevo recibo**.
 
-1. Seleccione **Examinar**.
+1. Haga clic en **Examinar**.
 
 1. Seleccione el archivo **Recibo.txt** que creó antes y, luego, **Abrir**.
 
@@ -127,28 +132,28 @@ En este laboratorio, explorará el proceso de incorporación para un nuevo emple
 
 1. En el panel **Adjuntar recibos a líneas**, seleccione el cuadro **150,00 LitWare Travel** y luego **Aceptar**.
 
-1. Seleccione **Cerrar**.
+1. Seleccione **Close** (Cerrar).
 
 1. En el panel de acciones, seleccione **Flujo de trabajo** y luego **Enviar**.
 
 1. En el panel **Informe de gastos - USMF - Enviar**, en el cuadro **Comentarios**, especifique **Revisar mi informe de gastos**.
 
-1. Seleccione **Enviar**.
+1. Seleccione **Submit** (Enviar).
 
-### Registrar diario de desempeño
+### <a name="record-performance-journal"></a>Registrar diario de desempeño
 
-1. En el panel de navegación, seleccione **Módulos** > **Recursos humanos** > **Rendimiento** > **Diario de desempeño**
+1. En el panel de navegación, seleccione **Módulos** > **Recursos humanos** > **Rendimiento** > **Diario de desempeño**.
 
 1. En el panel de acciones, seleccione **+Nuevo**.
 
 1. En la página **Nuevo diario**, escriba las siguientes actualizaciones.
 
 
-    | **Parámetro** | **Valor** |
+    | **Configuración** | **Valor** |
     | :--- | :---- |
     | Título | Aprendizaje al que asistió |
     | Descripción | Completó aprendizaje empresarial para ser administrador de tienda |
-    | Persona | Bill Smith |
+    | Person | Bill Smith |
     | Fecha de finalización | La fecha de hoy |
 
 1. En el panel de acciones, seleccione **Guardar**.

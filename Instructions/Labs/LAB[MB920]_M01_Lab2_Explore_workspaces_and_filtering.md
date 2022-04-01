@@ -1,22 +1,27 @@
 ---
 lab:
-    title: 'Laboratorio 2: Explorar las áreas de trabajo y el filtrado'
-    module: 'Módulo 1: Aprender los fundamentos de Microsoft Dynamics 365 Supply Chain Management'
+  title: 'Laboratorio 2: Explorar espacios de trabajo y el filtrado'
+  module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+ms.openlocfilehash: 0a2815e312b9798dcf93ec6cee669eb65a1f9942
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909927"
 ---
+# <a name="module-1-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>Módulo 1: Obtener información sobre los fundamentos de Microsoft Dynamics 365 Supply Chain Management
 
-# Módulo 1: Obtener información sobre los fundamentos de Microsoft Dynamics 365 Supply Chain Management
+## <a name="lab-2---explore-workspaces-and-filtering"></a>Laboratorio 2: Explorar las áreas de trabajo y el filtrado
 
-## Laboratorio 2: Explorar las áreas de trabajo y el filtrado
-
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Al iniciar sesión por primera vez en Finance and Operations están disponibles numerosas áreas de trabajo integradas. También puede crear su propia área de trabajo con contenido específico para una necesidad que pueda tener. Las áreas de trabajo son una de las numerosas características de Dynamics 365, pero también debe tener en cuenta que el filtrado es lo que permite realmente llegar a los elementos específicos que puede que esté buscando. Debe crear una nueva área de trabajo personalizada y utilizar filtros para identificar los diferentes elementos que necesita.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-   - **Tiempo estimado**: 10 minutos
+   - **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 1. En la página de inicio de Finance and Operations, a la derecha de los iconos del área de trabajo, haga clic con el botón derecho o mantenga pulsada una área en blanco para activar el menú.
 
@@ -26,7 +31,7 @@ Al iniciar sesión por primera vez en Finance and Operations están disponibles 
 
 1. En la ventana Personalizar, seleccione **+Agregar un área de trabajo**.
 
-1. Si la ventana Personalizar pequeña no está visible, trate de desplazarse hacia arriba en la página de inicio y haga clic con el botón derecho o bien pulse y mantenga pulsado y luego seleccione de nuevo **Personalizar: TilePageContainer**.
+1. Si la ventana pequeña Personalizar no está visible, trate de desplazarse hacia arriba en la página de inicio y haga clic con el botón derecho o bien pulse y mantenga pulsado y luego seleccione de nuevo **Personalizar: TilePageContainer**.
 
     ![Imagen de pantalla de la ventana Personalizar: TilePageContainer](./media/m1-common-home-page-right-click-personalize-window.png)
 
@@ -45,7 +50,7 @@ Al iniciar sesión por primera vez en Finance and Operations están disponibles 
 
 1. Seleccione su icono **Mi área de trabajo** y muévalo a otra ubicación en la página de inicio.
 
-    >[!Nota] Si no puede mover el icono, recargue la página y vuelva a probar los pasos anteriores para mover el icono.
+    >[!Note] Si no puede mover el icono, actualice la página y vuelva a probar los pasos anteriores para mover el icono.
 
 1. Cierre la barra de herramientas.
 

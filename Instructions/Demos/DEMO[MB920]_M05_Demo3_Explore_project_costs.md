@@ -1,15 +1,20 @@
 ---
 demo:
-    title: 'Demo 3: Explorar los costes del proyecto'
-    module: 'Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations'
+  title: 'Demostración 3: Explorar los costes del proyecto'
+  module: 'Module 5: Learn the Fundamentals of Microsoft Dynamics 365 Project Operations'
+ms.openlocfilehash: ca5f0816e2d018c01ab7e24b43219ff32c0e693e
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909677"
 ---
-
-## Demo 3: Explorar los costes del proyecto
+## <a name="demo-3---explore-project-costs"></a>Demo 3: Explorar los costes del proyecto
 
 En esta demo, veremos la creación de una entrada de tiempo y gastos que se cargará al proyecto Contoso Consulting. Exploraremos las entradas en formatos optimizados para su presentación en la web y en dispositivos móviles, y veremos cómo se utiliza un flujo de trabajo para administrar el proceso de aprobación.
 
-1. En **Dynamics 365 for Finance and Operations**, en el panel de navegación, seleccione **Módulos > Gestión de proyectos y contabilidad > Hojas de horas > Mis hojas de horas (optimizadas para móvil)**.  
-    Para empezar, aunque en este momento no estoy en un dispositivo móvil, reconocerá los formularios como diseñados para móviles después de que seleccionemos la opción **Mis hojas de horas (optimizadas para móvil)**.
+1. En **Dynamics 365 for Finance and Operations**, en el panel de navegación, seleccione **Módulos > Gestión de proyectos y contabilidad > Hojas de horas > Mis hojas de horas (optimizadas para móvil)** .  
+    Para empezar, aunque en este momento no estoy en un dispositivo móvil, reconocerá los formularios como diseñados para móviles después de que seleccionemos la opción **Mis hojas de horas (optimizadas para móvil)** .
 
     ![Captura de pantalla del menú de gestión de proyectos y contabilidad con mis hojas de horas (optimizadas para móvil) resaltadas.](./media/projops_costs_1_select_my_timesheets.png)  
 
@@ -28,7 +33,7 @@ En esta demo, veremos la creación de una entrada de tiempo y gastos que se carg
 
 1. Cuando haya terminado, seleccione **Aceptar**.
 
-1. En la página **Detalles de mis hojas de horas**, seleccione el icono **Nueva +**.
+1. En la página **Detalles de mis hojas de horas**, seleccione el icono **Nueva +** .
 
 1. En el **panel Nueva línea de hoja de horas**, señale el cuadro **Entidad jurídica**.  
     Se abrirá la línea de la nueva hoja de horas, con detalles como el cliente, proyecto, categoría, propiedades de la línea y parámetros de impuestos. También puede seleccionar una entidad jurídica diferente si la entrada de tiempo se hace en nombre de otra empresa dentro de su organización
@@ -69,7 +74,7 @@ En esta demo, veremos la creación de una entrada de tiempo y gastos que se carg
 
 1. En el panel **Revisar flujo de trabajo de hoja de horas – Enviar**, agregue comentarios adicionales.
 
-1. Seleccione **Enviar**.
+1. Seleccione **Submit** (Enviar).
 
 1. Vaya a la página **Transacciones por horas**. Si la pestaña **Transacciones por horas** está atenuada, vaya a la **página Mis hojas de horas** y seleccione la hoja de horas creada anteriormente.
 
@@ -124,7 +129,7 @@ Después, podemos indicar que el combustible se cobrará en el proyecto Contoso 
 
 1. En el cuadro **Comentario**, agregue cualquier comentario adicional.
 
-1. Seleccione **Enviar**.
+1. Seleccione **Submit** (Enviar).
 
 1. En la página **Administración de gastos**, señale la columna **Estado de aprobación**.  
     En ese momento, se activarán las directivas de viaje y el flujo de aprobación de gastos. Se han publicado y aplicado los costes al proyecto Contoso Consulting y estará disponible más tarde para la facturación, si se puede cobrar.

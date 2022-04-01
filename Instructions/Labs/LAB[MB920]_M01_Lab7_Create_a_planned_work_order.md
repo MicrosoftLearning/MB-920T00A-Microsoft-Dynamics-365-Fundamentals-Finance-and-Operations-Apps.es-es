@@ -1,10 +1,15 @@
 ---
 lab:
-    title: 'Laboratorio 7: Crear una orden de trabajo de mantenimiento'
-    module: 'Módulo 1: Aprender los fundamentos de Microsoft Dynamics 365 Supply Chain Management'
+  title: 'Laboratorio 7: Crear una orden de trabajo de mantenimiento'
+  module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+ms.openlocfilehash: ae848333194143720a6f5ebb598d5d566bc2260f
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909999"
 ---
-
-## Laboratorio 7: Crear una orden de trabajo de mantenimiento
+## <a name="lab-7---create-a-maintenance-work-order"></a>Laboratorio 7: Crear una orden de trabajo de mantenimiento
 
 **Objetivos**
 
@@ -26,25 +31,25 @@ Tiempo estimado: 15 min.
 
 5. En la pestaña **General**, cambie el valor de **Crear orden de trabajo** a Sí.
 
-6. En el panel de navegación izquierdo, seleccione **Módulos** **&gt; Administración de activos &gt; Espacios de trabajo &gt; Administración de la solicitud de mantenimiento.**
+6. En el panel de navegación izquierdo, seleccione **Módulos** **&gt; Administración de activos &gt; Áreas de trabajo &gt; Administración de la solicitud de mantenimiento.**
 
 7. Haga clic en **Crear solicitud de mantenimiento.**
 
 8. Escriba los siguientes valores en los campos del cuadro de diálogo y haga clic en el botón **Aceptar**.
 
-	- Tipo de solicitud de mantenimiento: Correctiva
+    - Tipo de solicitud de mantenimiento: Corrección
 
-	- Descripción: Ruido en el detector de metales
+    - Descripción: Ruido en el detector de metales
 
-	- Ubicación técnica: PP-02-02
+    - Ubicación técnica: PP-02-02
 
-	- Activo: MD-201
+    - Recurso: MD-201
 
-	- Nivel de servicio: 4
+    - Nivel de servicio: 4
 
-	- Síntoma del error: Ruido excesivo
+    - Síntoma del error: Ruido excesivo
 
-	- Área defecto: Electricidad 
+    - Área de defecto: Electricidad 
 
 9. Cierre el formulario de **Solicitud de mantenimiento** y vuelva al área de trabajo **Administración de solicitudes de mantenimiento**.
 
@@ -65,7 +70,7 @@ Tiempo estimado: 15 min.
 
 15. Escriba los siguientes valores en los campos del cuadro de diálogo y haga clic en el botón **Aceptar**.
 
-	- Tipo de trabajo de mantenimiento: Inspección
+    - Tipo de trabajo de mantenimiento: Inspección
 
 16. Se creará una nueva orden de trabajo, y se actualizará en el registro de solicitud de mantenimiento seleccionado.
 
@@ -75,7 +80,7 @@ Tiempo estimado: 15 min.
 
 19. Escriba los siguientes valores en los campos del cuadro de diálogo y haga clic en el botón **Aceptar**.
 
-	- Trabajador: Ted Howard
+    - Trabajador: Ted Howard
 
 20. En el menú Acción, vaya a **Orden de trabajo &gt; Estado de ciclo de vida &gt; Actualizar estado de la orden de trabajo**.
 

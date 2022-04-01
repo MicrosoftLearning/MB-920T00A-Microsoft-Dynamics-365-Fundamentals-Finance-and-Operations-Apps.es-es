@@ -1,22 +1,27 @@
-﻿---
-lab:
-    title: 'Laboratorio 3: Crear una oferta de productos con varios tamaños y colores'
-    module: 'Módulo 1: Aprender los fundamentos de Microsoft Dynamics 365 Supply Chain Management'
 ---
+lab:
+  title: 'Laboratorio 3: Crear una oferta de productos con varios tamaños y colores'
+  module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+ms.openlocfilehash: 268432a06fab68b219e68d0748b959aa089045c4
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909939"
+---
+# <a name="module-1-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>Módulo 1: Obtener información sobre los fundamentos de Microsoft Dynamics 365 Supply Chain Management
 
-# Módulo 1: Obtener información sobre los fundamentos de Microsoft Dynamics 365 Supply Chain Management
+## <a name="lab-3---create-a-new-product"></a>Laboratorio 3: Crear un producto nuevo
 
-## Laboratorio 3: Crear un producto nuevo
-
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para una nueva configuración de armario que se comprará a los proveedores.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-   - **Tiempo estimado**: 10 minutos
+   - **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 1. En la página de inicio de Finance and Operations, en la parte superior derecha, compruebe que esté trabajando con la empresa USMF.
 
@@ -30,7 +35,7 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. En el panel Nuevo producto liberado, en el menú **Tipo de producto**, compruebe que **Artículo** está seleccionado.
 
-1. En el menú **Subtipo de producto**, compruebe que **Producto** está seleccionado.
+1. En el menú **Subtipo de producto**, verifique que **Producto** está seleccionado.
 
 1. Seleccione el menú **Grupo de dimensiones de seguimiento** y luego **Ninguno**.
 
@@ -38,7 +43,7 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. En el cuadro **Nombre de producto**, escriba **Armario 2**.
 
-1. En **GRUPOS DE REFERENCIA**, seleccione el menú **Grupo de modelos de artículo** y luego **FIFO (el primero en entrar; el primero en salir)**.
+1. En **GRUPOS DE REFERENCIA**, seleccione el menú **Grupo de modelos de artículo** y luego **FIFO (el primero en entrar; el primero en salir)** .
 
 1. Seleccione el menú **Grupo de artículo** y luego **Televisión y vídeo**.
 
@@ -46,12 +51,12 @@ En Contoso Entertainment System USA (USMF), debe crear un nuevo artículo para u
 
 1. En **UNIDADES DE MEDIDAS**, compruebe que se establezcan los siguientes valores:
 
-    | **Parámetro**| **Valor**|
+    | **Configuración**| **Valor**|
     | :--- | :--- |
     | Unidad de inventario| ud. (cada una)|
     | Unidad de compra| ud. (cada una)|
     | Unidad de ventas| ud. (cada una)|
-    | Unidad de BOM| ud. (cada una)|
+    | Unidad de L. MAT| ud. (cada una)|
 
 1. En **FISCALIDAD DE VENTAS**, seleccione el menú **Grupo de impuestos de artículos** y luego **TODOS**.
 
