@@ -1,15 +1,15 @@
 ---
 lab:
   title: 'Laboratorio 1: Navegar por las aplicaciones de Finance and Operations'
-  module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
-ms.openlocfilehash: b0202a22e00a6fb2d561179ed1d6006f13d871f9
-ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+  module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
+ms.openlocfilehash: f1d534e6d6d960be8f6672048f83a20a491264cc
+ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909777"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "147116219"
 ---
-# <a name="module-1-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>Módulo 1: Obtener información sobre los fundamentos de Microsoft Dynamics 365 Supply Chain Management
+# <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>Módulo 1: Exploración de las capacidades principales de las aplicaciones de finanzas y operaciones de Dynamics 365
 
 ## <a name="lab-1---navigate-finance-and-operations-apps"></a>Laboratorio 1: Navegar las aplicaciones de Finance and Operations
 
