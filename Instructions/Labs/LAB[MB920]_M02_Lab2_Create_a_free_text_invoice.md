@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Laboratorio 2: Crear una factura de texto libre'
+  title: "Laboratorio\_2: Crear una factura de texto libre"
   module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
-ms.openlocfilehash: 317a260d12d52af49eb38c731f6f10833a30583e
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116349"
 ---
+
 ## <a name="lab-2---create-a-free-text-invoice"></a>Laboratorio 2: Creación de una factura de servicios
 
 ## <a name="instructions"></a>Instrucciones

@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Laboratorio 1: Crear un surtido de productos'
+  title: "Laboratorio\_1: Crear un surtido de productos"
   module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Commerce'
-ms.openlocfilehash: 7a1764cacfbf92ca50cda3baf9c8f374bf99bacd
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116361"
 ---
+
 ## <a name="lab-1---create-a-product-assortment"></a>Laboratorio 1: Creación de un surtido de productos
 
 ## <a name="objectives"></a>Objetivos
@@ -33,7 +28,7 @@ Debe crear un surtido de productos relacionados que se asignen a un canal de com
 
 1. Seleccione el cuadro **Fecha de vigencia** y, después, una fecha en el futuro.
 
-1. En el cuadro **Nombre de surtido**, escriba un nombre para el nuevo surtido. Por ejemplo, **Nueva temporada de primavera**.
+1. In the <bpt id="p1">**</bpt>Assortment name<ept id="p1">**</ept> box, enter a name for the new assortment. For example, <bpt id="p1">**</bpt>New Spring Season<ept id="p1">**</ept>.
 
 1. Selecciona la **Fecha de vencimiento** a **Nunca**.
 
@@ -60,7 +55,7 @@ Debe crear un surtido de productos relacionados que se asignen a un canal de com
 
 1. De esta manera se agregarán todos los elementos secundarios de la categoría principal.
 
-1. Revise la última columna llamada **Tipo de línea**. De manera predeterminada, se incluirán todos los elementos.
+1. Review the last column named <bpt id="p1">**</bpt>Line type<ept id="p1">**</ept>. By default, all items will be included.
 
 1. Seleccione **+ Agregar línea**, el menú **Categoría**, expanda **Deportes de equipo (deportes de equipo)** , **Béisbol** y, a continuación, **Aceptar**.
 
@@ -68,7 +63,7 @@ Debe crear un surtido de productos relacionados que se asignen a un canal de com
 
 1. Con la fila de categoría Béisbol, seleccione el menú **Productos**.
 
-1. Cuando se definen productos de una categoría, puede seleccionar un producto específico para incluirlo o excluirlo. Seleccione **AdultBaseballInfield**.
+1. When products within a category are defined, you can select a specific product to include or exclude. Select <bpt id="p1">**</bpt>AdultBaseballInfield<ept id="p1">**</ept>.
 
 1. Para eliminar un producto agregado, elimine el contenido del cuadro del producto y luego presione la tecla Tabulador de su teclado o seleccione otra área de la página.
 
