@@ -1,24 +1,29 @@
 ---
 lab:
-    title: 'Laboratorio 1: Navegar las aplicaciones de Finance and Operations'
-    module: 'Módulo 1: Aprender los fundamentos de Microsoft Dynamics 365 Supply Chain Management'
+  title: 'Laboratorio 1: Navegar por las aplicaciones de Finance and Operations'
+  module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
+ms.openlocfilehash: f1d534e6d6d960be8f6672048f83a20a491264cc
+ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "147116219"
 ---
+# <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>Módulo 1: Exploración de las capacidades principales de las aplicaciones de finanzas y operaciones de Dynamics 365
 
-# Módulo 1: Obtener información sobre los fundamentos de Microsoft Dynamics 365 Supply Chain Management
+## <a name="lab-1---navigate-finance-and-operations-apps"></a>Laboratorio 1: Navegar las aplicaciones de Finance and Operations
 
-## Laboratorio 1: Navegar las aplicaciones de Finance and Operations
-
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Ahora que se ha familiarizado con las aplicaciones de Finance and Operations, podrá dedicar tiempo a explorar la interfaz.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-- **Tiempo estimado**: 10 minutos
+- **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
-### Iniciar sesión en el equipo del laboratorio
+### <a name="sign-in-to-the-lab-computer"></a>Iniciar sesión en el equipo del laboratorio
 
 1. Iniciar sesión en el equipo del laboratorio con credenciales
 
@@ -26,7 +31,7 @@ Ahora que se ha familiarizado con las aplicaciones de Finance and Operations, po
 
         Pegar contenido
 
-        Administrator
+        Administrador
 
     - Contraseña:
 
@@ -34,7 +39,7 @@ Ahora que se ha familiarizado con las aplicaciones de Finance and Operations, po
 
         pass@word1
 
-    >[!Nota] Es posible que Internet Explorer se abra automáticamente en el escritorio. Si todavía no ha completado los pasos 2-5, finalícelos antes de volver a navegar a Internet Explorer.
+    >[!Note] Es posible que Internet Explorer se abra automáticamente en el escritorio. Si todavía no ha completado los pasos 2-5, finalícelos antes de volver a navegar a Internet Explorer.
 
 1. Seleccione el archivo **AdminUserProvisioning** en el escritorio.
 
@@ -51,7 +56,7 @@ Puede encontrar sus credenciales en el menú **Recursos**, en la esquina superio
 
 1. Inicie sesión con las credenciales facilitadas en el menú **Recursos**.
 
-### Navegar por las aplicaciones de Finance and Operations
+### <a name="navigate-finance-and-operations-apps"></a>Navegar por las aplicaciones de Finance and Operations
 1. En la página de inicio de Finance and Operations, si está configurada, verá lo siguiente:
 
     - El menú de navegación de la izquierda que está contraído de forma predeterminada.
@@ -79,7 +84,7 @@ Puede encontrar sus credenciales en el menú **Recursos**, en la esquina superio
 
 1. En **Configuración**, seleccione **Opciones de rendimiento del cliente**.
 
-1. En el panel de opciones de desempeño del cliente, en **Llamadas de características habilitadas**, seleccione el conmutador de alternancia y asegúrese de que está establecido en **Sí**.
+1. En el panel de opciones de rendimiento del cliente, en **Llamadas de características habilitadas**, seleccione el conmutador de alternancia y asegúrese de que está establecido en **Sí**.
 
 1. Revise las otras opciones disponibles, desplácese hasta la parte inferior del panel y luego seleccione **Aceptar**.
 

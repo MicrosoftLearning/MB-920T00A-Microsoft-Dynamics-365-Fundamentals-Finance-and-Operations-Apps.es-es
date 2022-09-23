@@ -1,10 +1,15 @@
 ---
 demo:
-    title: 'Demo 1: Cierre de fin de mes'
-    module: 'Módulo 2: Aprender los Fundamentos de Microsoft Dynamics 365 Finance'
+  title: 'Demostración 1: Cierre de fin de mes'
+  module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
+ms.openlocfilehash: 64e058508083538795592815e4657ac905000ded
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909667"
 ---
-
-## Demo 1: Cierre de fin de mes
+## <a name="demo-1---month-end-close"></a>Demo 1: Cierre de fin de mes
 
 1. Vaya a la página principal de **Microsoft 365 for Finance and Operations**.  
     Para crear un nuevo cierre del período financiero en Microsoft Dynamics 365 for Finance and Operations, como cierres de fin de mes, debe ir primero al módulo de **Contabilidad general**.
@@ -70,7 +75,7 @@ Después, deberá seleccionar las empresas o entidades legales que se asociarán
 1. En la página **Configuración del cierre del período financiero**, seleccione la pestaña **Áreas de tareas**.  
     Aquí se han definido las áreas de tareas de alto nivel. En este caso, estas áreas no involucran roles de seguridad.
 
-1. Seleccione la pestaña **Recursos**.
+1. Seleccione la pestaña **Recursos** .
 
 1. En la página de recursos puede ver empleados individuales y sus roles de cierre asignados.
 
