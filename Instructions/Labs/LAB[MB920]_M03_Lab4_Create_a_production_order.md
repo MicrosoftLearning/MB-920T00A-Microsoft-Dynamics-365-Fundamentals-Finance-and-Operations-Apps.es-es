@@ -8,7 +8,7 @@ lab:
 
 ## <a name="objectives"></a>Objetivos
 
-The production order contains information about what will be produced, the quantity to produce, and the planned finish date. It also contains information about which materials to consume and which process to follow to produce the item.
+El pedido de producción contiene información sobre lo que se va a producir, cuánto se va a producir y la fecha de finalización planificada. También contiene información sobre qué materiales consumir y qué proceso seguir para producir el artículo.
 
 Debe crear un nuevo pedido de producción para su empresa.
 
@@ -29,11 +29,11 @@ Debe crear un nuevo pedido de producción para su empresa.
 1. En **IDENTIFICACIÓN**, en el cuadro **Número de artículo**, escriba **D0001** y luego seleccione el artículo identificado.
 
 1. En **PRODUCCIÓN**, en el cuadro **Entrega**, seleccione una fecha un mes después de la fecha de hoy.  
-    The delivery date indicates when the production order should end in order to deliver on time. This date can be used in the scheduling process. For example, you can schedule the order backward from the delivery date.
+    La fecha de entrega indica cuándo debe finalizar el pedido de producción para entregar a tiempo. Esta fecha se puede usar en el proceso de programación. Por ejemplo, puede programar el pedido hacia atrás desde la fecha de entrega.
 
 1. En el cuadro **Cantidad**, escriba **20**.
 
-1. Under <bpt id="p1">**</bpt>BOM/ROUTE<ept id="p1">**</ept>, the BOM number field automatically displays the number of any active BOM for the current item, but you can change the BOM for the production order by selecting an active BOM from the list of approved BOM versions. The Route number field automatically displays the number of any active Route for the current item, but you can change the Route for the production order by selecting an active Route from the list of approved Route versions.
+1. En **L. MAT/RUTA**, el campo Número de L. MAT muestra automáticamente el número de cualquier L. MAT activa para el producto actual, pero puede cambiar la L. MAT del pedido de producción si selecciona una L. MAT activa de la lista de versiones de L. MAT aprobadas. El campo Número de ruta muestra automáticamente el número de cualquier ruta activa para el producto actual, pero puede cambiar la ruta del pedido de producción si selecciona una ruta activa de la lista de versiones de rutas aprobadas.
 
     ![Imagen de pantalla que muestra el panel completo de Crear pedido de producción](./media/lp1-m4-new-production-order-pane.png)
 

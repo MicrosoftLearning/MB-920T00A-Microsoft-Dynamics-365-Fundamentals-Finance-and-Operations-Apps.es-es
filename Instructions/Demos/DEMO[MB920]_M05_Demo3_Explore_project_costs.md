@@ -6,7 +6,7 @@ demo:
 
 ## <a name="demo-3---explore-project-costs"></a>Demo 3: Explorar los costes del proyecto
 
-In this demo, we will walk through the creation of a time and expense entry that will be charged to the Contoso Consulting project. We'll explore the entries in formats optimized for web and mobile presentation, and we'll see how a workflow is used to manage the approval process.
+En esta demo, veremos la creación de una entrada de tiempo y gastos que se cargará al proyecto Contoso Consulting. Exploraremos las entradas en formatos optimizados para su presentación en la web y en dispositivos móviles, y veremos cómo se utiliza un flujo de trabajo para administrar el proceso de aprobación.
 
 1. En **Dynamics 365 for Finance and Operations**, en el panel de navegación, seleccione **Módulos > Gestión de proyectos y contabilidad > Hojas de horas > Mis hojas de horas (optimizadas para móvil)** .  
     Para empezar, aunque en este momento no estoy en un dispositivo móvil, reconocerá los formularios como diseñados para móviles después de que seleccionemos la opción **Mis hojas de horas (optimizadas para móvil)** .
@@ -15,7 +15,7 @@ In this demo, we will walk through the creation of a time and expense entry that
 
     Esta optimización es un factor diferenciador clave para Microsoft Business Applications y ayuda a garantizar que haya una curva de aprendizaje mínima entre el uso en la web y en dispositivos móviles.
 
-1. In the top right company picker, verify the legal entity you are connecting to is <bpt id="p1">**</bpt>USSI<ept id="p1">**</ept>. If it's not, change the legal entity to <bpt id="p1">**</bpt>USSI<ept id="p1">**</ept>.
+1. En el selector de empresas de la parte superior derecha, compruebe que la entidad jurídica a la que se está conectando es **USSI**. Si no es así, cambie la entidad jurídica a **USSI**.
 
 1. En la página **Mis hojas de horas**, seleccione **Nueva**.  
     Ahora crearemos una nueva hoja de horas que se basará en los ajustes configurados.
@@ -31,7 +31,7 @@ In this demo, we will walk through the creation of a time and expense entry that
 1. En la página **Detalles de mis hojas de horas**, seleccione el icono **Nueva +** .
 
 1. En el **panel Nueva línea de hoja de horas**, señale el cuadro **Entidad jurídica**.  
-    The new timesheet line will be opened, with details such as the customer, the project, the category, the line properties, and tax parameters. You can also select a different legal entity if the time entry is on behalf of another company within your organization.
+    Se abrirá la línea de la nueva hoja de horas, con detalles como el cliente, proyecto, categoría, propiedades de la línea y parámetros de impuestos. También puede seleccionar una entidad jurídica diferente si la entrada de tiempo se hace en nombre de otra empresa dentro de su organización
 
 1. Seleccione el menú **Id. de proyecto**.
 
@@ -45,10 +45,10 @@ In this demo, we will walk through the creation of a time and expense entry that
 
     ![Captura de pantalla de la página Entrada de tiempo.](./media/projops_costs_2_mon_box.png)
 
-1. En esta demo, veremos la creación de una entrada de tiempo y gastos que se cargará al proyecto Contoso Consulting.  
+1. En el cuadro **Comentario interno**, agregue un comentario. Por ejemplo: **Puede querer hablarles sobre las nuevas bicicletas**.  
     También puede escribir comentarios internos y externos sobre el proyecto para asegurarse de que todas las partes comprenden la naturaleza de las horas registradas.
 
-1. Exploraremos las entradas en formatos optimizados para su presentación en la web y en dispositivos móviles, y veremos cómo se utiliza un flujo de trabajo para administrar el proceso de aprobación.
+1. En el cuadro **Comentario externo**, agregue un comentario. Por ejemplo: **Se ajustaron las cadenas y alinearon las ruedas delanteras en la flota**.
 
 1. En la barra de navegación, seleccione **Guardar**.
 
@@ -57,13 +57,13 @@ In this demo, we will walk through the creation of a time and expense entry that
 1. En la página **Mis hojas de horas**, seleccione la entrada de tiempo que creó anteriormente.
 
 1. En la pestaña **Hoja de horas**, señale la columna Categoría.  
-    Now assume we've returned to a computer and are reviewing our time from within the web timesheet form. We can still see the same information, such as the category and the hours.
+    Ahora supongamos que hemos vuelto a un equipo y estamos revisando nuestro tiempo desde el formulario de hoja de horas de la web. Todavía podemos ver la misma información, como la categoría y las horas.
 
 1. En **Detalles de línea**, señale **Comentario interno** y **Comentario externo**.  
-    We can also review the comments we entered earlier. The information is there, but the layout format is just a bit different. This format is often used for final review because it can be easier for people to review and validate their time, especially when someone is assigned to multiple projects or categories.
+    También podemos revisar los comentario que escribimos anteriormente. La información está ahí, pero el formato de diseño es algo diferente. Este formato se suele utilizar para la revisión final porque puede ser más fácil para las personas revisar y validar su tiempo, especialmente cuando alguien está asignado a varios proyectos o categorías.
 
 1. En la barra de navegación, seleccione la pestaña **Flujo de trabajo**.  
-    If we're satisfied with the timesheet, we can submit it. The approvals required will be determined by each organization during the implementation phase based on their own company policies.
+    Si estamos satisfechos con la hoja de horas, podemos enviarla. Las autorizaciones necesarias las determinará cada organización durante la fase de implantación, en función de sus propias directivas empresariales.
 
 1. En el panel **Revisar flujo de trabajo de hoja de horas**, seleccione **Enviar**.
 
@@ -71,10 +71,10 @@ In this demo, we will walk through the creation of a time and expense entry that
 
 1. Seleccione **Submit** (Enviar).
 
-1. Browse to the <bpt id="p1">**</bpt>Hour transactions<ept id="p1">**</ept> page. If the <bpt id="p1">**</bpt>Hour transactions<ept id="p1">**</ept> tab is grayed out, browse to the <bpt id="p2">**</bpt>My timesheets page<ept id="p2">**</ept>, and select the previously created timesheet.
+1. Vaya a la página **Transacciones por horas**. Si la pestaña **Transacciones por horas** está atenuada, vaya a la **página Mis hojas de horas** y seleccione la hoja de horas creada anteriormente.
 
 1. En la página **Transacciones por horas**, revise la página.  
-    Upon approval, the results will be posted and will be visible in the Hour transactions page. We can see all the relevant information, such as the legal entity, project, category, hours, and in this case, even a view of the cost price and the sales price.  
+    Una vez aprobados, los resultados se publicarán y serán visibles en la página Transacciones por horas. Podemos ver toda la información relevante, como la entidad jurídica, el proyecto, la categoría, las horas y, en este caso, incluso una vista del precio de coste y del precio de venta.  
 
 Posteriormente, podemos explorar en profundidad las Transacciones de asiento.
 
@@ -89,7 +89,7 @@ Ahora, creemos una entrada de gastos para el mismo proyecto Contoso Consulting.
 
 1. En la página **Administración de gastos**, en la pestaña **Informes**, seleccione **+ Nuevo informe de gastos**.
 
-1. En el selector de empresas de la parte superior derecha, compruebe que la entidad jurídica a la que se está conectando es **USSI**.
+1. En el panel **Nuevo informe de gastos**, en el **cuadro Propósito**, escriba un título. Por ejemplo, **Contoso – Feb2021**.
 
 1. Seleccione **Aceptar**.
 
@@ -103,7 +103,7 @@ Aquí podemos escribir el nuevo gasto con detalles sobre el mismo.
 
 1. En la columna **Divisa**, seleccione **USD**.
 
-1. Si no es así, cambie la entidad jurídica a **USSI**.  
+1. En la columna **Fecha de transacción**, seleccione una fecha. Por ejemplo, **2/1/2021**.  
     Una vez que haya escrito todos los detalles, puede guardar el gasto.
 
 1. Seleccione **Guardar**.
@@ -127,6 +127,6 @@ Después, podemos indicar que el combustible se cobrará en el proyecto Contoso 
 1. Seleccione **Submit** (Enviar).
 
 1. En la página **Administración de gastos**, señale la columna **Estado de aprobación**.  
-    At this time, travel policies and expense approval flow will be activated. The costs have been posted and applied to the Contoso Consulting project and will be available later for invoicing if chargeable.
+    En ese momento, se activarán las directivas de viaje y el flujo de aprobación de gastos. Se han publicado y aplicado los costes al proyecto Contoso Consulting y estará disponible más tarde para la facturación, si se puede cobrar.
 
-In this demo, we have processed a time and expense entry that was charged to the Contoso Consulting project. We saw samples in web and mobile formats and were able to see how workflows are used to manage the approvals required by the USSI organization.
+En esta demo, hemos procesado una entrada de tiempo y gastos que se cargará al proyecto Contoso Consulting. Hemos visto ejemplos en los formato web y móvil, y pudimos comprobar cómo se utilizan los flujos de trabajo para administrar las aprobaciones necesarias por la organización USSI.
