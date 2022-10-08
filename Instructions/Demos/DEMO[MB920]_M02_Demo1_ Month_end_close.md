@@ -2,13 +2,8 @@
 demo:
   title: 'Demostración 1: Cierre de fin de mes'
   module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
-ms.openlocfilehash: 64e058508083538795592815e4657ac905000ded
-ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909667"
 ---
+
 ## <a name="demo-1---month-end-close"></a>Demo 1: Cierre de fin de mes
 
 1. Vaya a la página principal de **Microsoft 365 for Finance and Operations**.  

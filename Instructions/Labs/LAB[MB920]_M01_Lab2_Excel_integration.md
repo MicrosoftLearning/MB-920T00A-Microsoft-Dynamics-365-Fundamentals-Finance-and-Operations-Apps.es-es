@@ -8,7 +8,7 @@ lab:
 
 ## <a name="objective"></a>Objetivo
 
-In this lab, you will learn how to copy data from finance and operations to Excel using Dynamics office add-in app. You will also learn how the same app can be used to insert data into finance and operations apps.
+En este laboratorio, aprenderá a copiar datos de finanzas y operaciones a Excel mediante la aplicación de complemento de Office Dynamics. También aprenderá cómo se puede usar la misma aplicación para insertar datos en aplicaciones de finanzas y operaciones.
 
 ## <a name="lab-steps"></a>Pasos de laboratorio
 
@@ -22,7 +22,7 @@ Ahora que ya estamos familiarizados con las aplicaciones de Finance and Operatio
 
 4. Seleccione **Grupos de proveedores** (usmf) y descargue la plantilla de Excel.
 
-5. Save and then open the downloaded Excel template, allow it if needed, close activation, and select <bpt id="p1">**</bpt>Enable editing<ept id="p1">**</ept>. Trust this add-in, and then sign in (using your same credentials, if asked).
+5. Guarde y abra la plantilla de Excel descargada, dele permiso si es necesario, cierre la activación y seleccione **Habilitar edición**. Confíe en este complemento y luego inicie sesión (con las mismas credenciales, si se le piden).
 
     Todos los datos existentes de la tabla Grupo de proveedores aparecerán en la hoja de cálculo de Excel.
 

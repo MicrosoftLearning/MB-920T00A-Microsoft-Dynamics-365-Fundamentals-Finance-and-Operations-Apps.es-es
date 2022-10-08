@@ -7,10 +7,10 @@ demo:
 ## <a name="demo-2---create-an-invoice"></a>Demo 2: Crear una factura
 
 1. Vaya al área de trabajo  **Administración de proyectos**.  
-    In this demo, we'll go over the process of invoicing a single project within project operations. Although it's possible to perform mass invoicing, for demonstration purposes we will focus on just a single time and material project. We'll also see the posting results and financial insights within the project statement. Let's start with project invoicing. 
+    En esta demo repasaremos el proceso de facturación de un único proyecto en Project Operations. Aunque es posible hacer una facturación en masa, en esta demostración nos centraremos en un único proyecto de tiempo y material.También veremos los resultados del registro y la información financiera del informe del proyecto. Comencemos con la facturación del proyecto. 
 
-1. In the top-right company picker, verify the legal entity you are connected to is<bpt id="p1"> **</bpt>USSI<ept id="p1">**</ept>. If it's not, change the legal entity to<bpt id="p1"> **</bpt>USSI<ept id="p1">**</ept>.  
-    From the<bpt id="p1"> **</bpt>Project management<ept id="p1">**</ept> workspace, we can see all the active projects. We can search for projects using the filter, or in this example, we will select a known Project ID. 
+1. En el selector de empresas de la parte superior derecha, compruebe que la entidad legal a la que está conectado es  **USSI**. De no ser así, cambie la entidad legal a  **USSI**.  
+    Desde el área de trabajo  **Administración de proyectos**, podremos ver todos los proyectos activos.Podemos buscar proyectos mediante el filtro o, como en este ejemplo, podemos seleccionar una id. de proyecto conocida. 
 
 1. En la tabla  **Proyectos activos** , en la tabla  **ID de proyecto** , seleccione  **00000093 Contoso Consulting**.  
 
@@ -24,7 +24,7 @@ demo:
     ![Una factura de pantalla de la página Propuestas de factura de proyecto con la nueva propuesta de factura resaltada.](./media/projops_invoice_1_new_invoice_proposal.png)
 
 1. En el panel  **Crear propuesta de factura** , apunte a los cuadros bajo  **Seleccionar transacciones**.  
-    From here, we can select things such as the invoicing method, the invoice date, the funding source, and the project. We can also choose to include sub projects, as well as incorporate transaction types, the start and end dates for transactions, and any financial dimensions we need. 
+    Desde aquí, podremos seleccionar opciones como el método de facturación, la fecha de la factura, la fuente de financiación y el proyecto.También podremos optar por incluir subproyectos, además de incorporar tipos de transacciones, las fechas de inicio y finalización de las transacciones y cualquier dimensión financiera que necesitemos. 
 
     ![Una captura de pantalla del panel Crear propuesta de factura con la sección Seleccionar transacciones resaltada.](./media/projops_invoice_2_select_transactions.png)
 
@@ -34,7 +34,7 @@ demo:
     Una vez ha seleccionado todo, seleccione el botón de búsqueda para buscar las transacciones que cumplan dichos parámetros.
 
 1. Seleccione  **Buscar**.  
-    En esta demo repasaremos el proceso de facturación de un único proyecto en Project Operations.
+    Luego, para facturar todas las transacciones, seleccione la opción Seleccionar todo. De esta forma se seleccionarán los elementos que elegimos para gastos y horas.
 
 1. En la pestaña  **Transacciones del proyecto** , seleccione  **Seleccionar todo**.
 
@@ -57,7 +57,7 @@ Después, vamos a comprobar el botón de totales para ver el aspecto que tendrá
     En la pantalla Totales, podemos ver cuál será el impacto en la contabilidad general, cualquier información del cliente, como los límites de crédito, los descuentos, los impuestos y el impacto neto de la factura. 
 
 1. En el lado derecho de la pantalla, seleccione  **X**  para cerrar la página.  
-    Aunque es posible hacer una facturación en masa, en esta demostración nos centraremos en un único proyecto de tiempo y material. 
+    Ya estamos listos para crear una vista previa de impresión para asegurarnos de que toda la información de la factura es correcta. Algunas organizaciones utilizan la vista previa durante las reuniones de revisión del proyecto para asegurarse de que todos están de acuerdo con los totales antes de finalizar la factura. 
 
 1. En la barra de navegación de la página  **Propuesta de factura** , seleccione  **Vista previa de impresión**. 
 
@@ -90,7 +90,7 @@ Después, vamos a comprobar el botón de totales para ver el aspecto que tendrá
 1. En la barra de acciones de la página  **Diario de factura** , seleccione  **Vale**.
 
 1. En la página  **Transacciones de vales** , apunte a la columna  **Cuenta contable**.  
-    También veremos los resultados del registro y la información financiera del informe del proyecto.
+    Aquí podemos ver los resultados registrados de la contabilidad general. Las cuentas de contabilidad general están determinadas por la configuración de cuenta y las dimensiones financieras aplicadas a cada proyecto.
 
 1. Vaya al área de trabajo  **Administración de proyectos** . 
 
@@ -114,4 +114,4 @@ Puede crear un informe de cualquier intervalo de fechas que desee.
     ![Una captura de pantalla de la página Informes de proyecto con la opción Calcular resaltada.](./media/projops_invoice_4_calculate.png)
 
 1. Apunte a  **Transacciones**.  
-    Comencemos con la facturación del proyecto.
+    Una vez se hayan actualizado los datos, los directores de proyectos podrán explorar en profundidad los detalles de las transacciones para tomar decisiones sobre el proyecto o para hacer modificaciones en caso de que sea necesario.En esta demostración hemos procesado una factura de tiempo y material con una transacción tanto de horas como de gastos. Hemos mirado una vista previa de la factura, la hemos registrado, hemos revisado el registro de contabilidad y por último hemos revisado el impacto financiero a través del informe del proyecto.
