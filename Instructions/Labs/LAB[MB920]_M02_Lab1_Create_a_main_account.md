@@ -31,3 +31,5 @@ lab:
     - Valor predet. Debe/Haber: **Debe**
 
  ![Captura de pantalla de la página Cuentas principales - Plan de cuentas: Compartido con los campos del paso 5 cumplimentados](./media/m-002-explore-general-ledgers-in-microsoft-dynamics-365-finance-03.png)
+
+6. Haga clic en **Save**(Guardar).

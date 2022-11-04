@@ -34,7 +34,7 @@ Ahora que se ha familiarizado con las aplicaciones de Finance and Operations, po
 
         pass@word1
 
-    >[!Note] Es posible que Internet Explorer se abra automáticamente en el escritorio. Si todavía no ha completado los pasos 2-5, finalícelos antes de volver a navegar a Internet Explorer.
+    >[!Note] Es posible que Microsoft Edge se abra automáticamente en el escritorio. Si todavía no ha completado los pasos 2-5, finalícelos antes de volver a navegar a Microsoft Edge.
 
 1. Seleccione el archivo **AdminUserProvisioning** en el escritorio.
 
@@ -45,7 +45,7 @@ Puede encontrar sus credenciales en el menú **Recursos**, en la esquina superio
 
 1. Seleccione **Aceptar** para continuar.
 
-1. Abra **Internet Explorer**.
+1. Abra **Microsoft Edge**.
 
 1. Vaya al siguiente vínculo: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
