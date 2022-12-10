@@ -6,6 +6,8 @@ lab:
 
 # <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>Módulo 1: Exploración de las capacidades principales de las aplicaciones de finanzas y operaciones de Dynamics 365
 
+## <a name="lab-2---excel-integration"></a>Laboratorio 2: Integración con Excel
+
 ## <a name="objective"></a>Objetivo
 
 En este laboratorio, aprenderá a copiar datos de finanzas y operaciones a Excel mediante la aplicación de complemento de Office Dynamics. También aprenderá cómo se puede usar la misma aplicación para insertar datos en aplicaciones de finanzas y operaciones.

@@ -20,17 +20,13 @@ Debe crear un surtido de productos relacionados que se asignen a un canal de com
 
 1. En el panel de navegación, seleccione **Venta minorista y comercio** > **Catálogos y surtidos** > **Surtidos**.
 
-1. Espere a que se cargue la página.
-
 1. En la página Surtidos, seleccione **+ Nuevo**.
 
-1. En el panel Nuevo registro, expanda **General**.
+1. En el panel Nuevo registro, si es necesario, expanda **General**.
 
 1. Seleccione el cuadro **Fecha de vigencia** y, después, una fecha en el futuro.
 
 1. En el cuadro **Nombre de surtido**, escriba un nombre para el nuevo surtido. Por ejemplo, **Nueva temporada de primavera**.
-
-1. Selecciona la **Fecha de vencimiento** a **Nunca**.
 
 1. La fecha de vencimiento se puede utilizar para desactivar automáticamente una selección publicada.
 
