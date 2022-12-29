@@ -8,7 +8,7 @@
 
 - To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
 
-- **¿Es un MCT?**
+- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
 
 ## <a name="how-should-i-use-these-files-relative-to-the-released-moc-files"></a>¿Cómo debo usar estos archivos en relación con los archivos MOC publicados?
 
@@ -26,7 +26,7 @@
 
 - Cualquier MCT puede enviar una solicitud de extracción al código o contenido en el reproductor de GitHub, Microsoft y el autor del curso seleccionará e incluirá los cambios de contenido y de laboratorio según sea necesario.
 
-- Consulte nuestra [guía de usuario de GitHub para MCT](https://microsoftlearning.github.io/MCT-User-Guide/).
+- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
 
 ## <a name="notes"></a>Notas
 
