@@ -16,15 +16,15 @@ lab:
 
 4. El formulario del diario de recuento de inventario aparecerá con encabezado e información detallada
 
-![Captura de pantalla del formulario de diario de recuento de inventario con encabezado e información detallada cumplimentados](../media/lp-scm-m-002-warehouse-inventory-mgmt-06.png)
+    ![Captura de pantalla del formulario de diario de recuento de inventario con encabezado e información detallada cumplimentados](./media/lp-scm-m-002-warehouse-inventory-mgmt-06.png)
 
-5. Seleccione **Crear líneas: &gt; En línea** en el panel de acciones.
+5. Seleccione **Crear líneas -&gt; Disponible** en el panel de acciones.
 
-6. En el panel de diálogo **Crear el diario de recuento disponible**, establezca los campos **Almacén**, **Estado de inventario**, Ubicación y **Matrícula de entidad de almacén** en **Sí**. 
+6. En el panel de diálogo **Crear el diario de recuento disponible**, establezca los campos **Almacén**, **Estado de inventario**, **Ubicación** y **Matrícula de entidad de almacén** en **Sí**. 
 
-![Captura de pantalla del panel de diálogo Crear el diario de recuento disponible con los campos establecidos según lo descrito](../media/lp-scm-m-002-warehouse-inventory-mgmt-07.png)
+    ![Captura de pantalla del panel de diálogo Crear el diario de recuento disponible con los campos establecidos según lo descrito](./media/lp-scm-m-002-warehouse-inventory-mgmt-07.png)
 
-7. Expanda la sección **Registros que incluir** y seleccione el vínculo **Filtrar**. En el campo **Código de artículo**, seleccione **A0001** y, a continuación, seleccione **Aceptar**.
+7. Expanda la sección **Registros que incluir** y seleccione el vínculo **Filtrar**. En el campo **Número de elemento**, escriba **A0001** en Criterios y, a continuación, seleccione **Aceptar**.
 
 8. Seleccione **Aceptar** en la parte inferior del formulario **Crear el diario de recuento disponible**.
 
