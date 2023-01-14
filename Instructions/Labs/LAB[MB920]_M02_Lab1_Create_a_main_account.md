@@ -24,7 +24,7 @@ lab:
 
     - Nombre: **Gasto en llamadas internacionales**
 
-    - Tipo de gasto principal: **Expense**
+    - Tipo de cuenta principal: **Gasto**
 
     - Categoría de cuenta principal: **TANDEEXP**
 
