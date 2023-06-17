@@ -4,7 +4,7 @@ demo:
   module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Human Resources'
 ---
 
-## <a name="demo-1---assigning-learning-courses"></a>Demo 1: Asignar cursos de aprendizaje
+## Demo 1: Asignar cursos de aprendizaje
 
 1. Vaya a la página principal de **Microsoft Dynamics 365 Human Resources**.  
     En Microsoft Dynamics 365 Human Resources, la administración de personal puede asignar cursos de aprendizaje a los empleados. En este ejemplo, debe asignarse a la nueva contratación de la empresa, Alicia, el aprendizaje disponible para los empleados durante sus primeros treinta días.

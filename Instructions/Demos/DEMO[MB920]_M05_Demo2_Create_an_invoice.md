@@ -4,7 +4,7 @@ demo:
   module: 'Module 5: Learn the Fundamentals of Microsoft Dynamics 365 Project Operations'
 ---
 
-## <a name="demo-2---create-an-invoice"></a>Demo 2: Crear una factura
+## Demo 2: Crear una factura
 
 1. Vaya al área de trabajo  **Administración de proyectos**.  
     En esta demo repasaremos el proceso de facturación de un único proyecto en Project Operations. Aunque es posible hacer una facturación en masa, en esta demostración nos centraremos en un único proyecto de tiempo y material.También veremos los resultados del registro y la información financiera del informe del proyecto. Comencemos con la facturación del proyecto. 

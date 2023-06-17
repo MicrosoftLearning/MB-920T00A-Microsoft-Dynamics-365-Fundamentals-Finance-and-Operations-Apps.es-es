@@ -4,7 +4,7 @@ demo:
   module: 'Module 5: Learn the Fundamentals of Microsoft Dynamics 365 Project Operations'
 ---
 
-## <a name="demo-1---project-operations-pricing"></a>Demo 1: Precios de Project Operations
+## Demo 1: Precios de Project Operations
 
 1. Vaya al área de trabajo **Administración de proyectos**.  
     En esta demo, configuraremos los precios de las venta y coste en Project Operations. También veremos cómo el coste y los precios derivan de una factura registrada previamente.
