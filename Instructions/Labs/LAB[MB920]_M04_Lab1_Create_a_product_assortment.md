@@ -4,69 +4,71 @@ lab:
   module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Commerce'
 ---
 
-## <a name="lab-1---create-a-product-assortment"></a>Laboratorio 1: Creación de un surtido de productos
+# Módulo 4: Aprender los fundamentos de Microsoft Dynamics 365 Commerce
 
-## <a name="objectives"></a>Objetivos
+## Laboratorio 1: Crear un surtido de productos
 
-Debe crear un surtido de productos relacionados que se asignen a un canal de comercio específico que estará disponible en una fecha futura.
+## Objetivo
 
-## <a name="lab-setup"></a>Configuración del laboratorio
+Debe crear un surtido de productos relacionados que se asignen a un canal de comercio específico que estará disponible en una fecha futura. 
+
+## Configuración del laboratorio
 
    - **Tiempo estimado**: 10 minutos
 
-## <a name="instructions"></a>Instrucciones
+## Instrucciones
 
-1. En la página Finance and Operations, en la parte superior izquierda, seleccione el menú de hamburguesa **Expandir el panel de navegación**.
+1.  En la **página de inicio de Finance and Operations**, en la parte superior derecha, compruebe que esté trabajando con la empresa **USMF**. 
 
-1. En el panel de navegación, seleccione **Venta minorista y comercio** > **Catálogos y surtidos** > **Surtidos**.
+1.  Si es necesario, seleccione la empresa y, en el menú, seleccione **USMF**. 
 
-1. En la página Surtidos, seleccione **+ Nuevo**.
+1.  En el panel de navegación izquierdo, en el módulo **Venta minorista y comercio** , seleccione **Catálogos y surtidos** > **Surtidos**. 
 
-1. En el panel Nuevo registro, si es necesario, expanda **General**.
+1.  En la página **Surtidos**, seleccione **+ Nuevo**. 
 
-1. Seleccione el cuadro **Fecha de vigencia** y, después, una fecha en el futuro.
+1.  En el formulario **Nuevo registro**, si es necesario, expanda la ficha desplegable **General**. 
 
-1. En el cuadro **Nombre de surtido**, escriba un nombre para el nuevo surtido. Por ejemplo, **Nueva temporada de primavera**.
+1.  Seleccione el cuadro **Fecha de entrada en vigor** y, después, una fecha en el futuro.  
 
-1. La fecha de vencimiento se puede utilizar para desactivar automáticamente una selección publicada.
+1.  En el cuadro **Nombre de surtido**, escriba un nombre para el nuevo surtido. Por ejemplo: `New Spring Season`
 
-1. Expanda **Canales de Commerce**.
+    > **Nota**: la **fecha de expiración** se puede utilizar para desactivar automáticamente un surtido publicado. 
 
-1. En el menú Canales de Commerce, seleccione **+ Agregar línea**.
+1.  Expanda la ficha desplegable **Canales de comercio**. 
 
-1. En Elegir nodos de organización, seleccione el menú **Jerarquía organizativa**, a continuación, seleccione **Tiendas por tipo (Fabrikam)** .
+1.  En el menú **Canales de comercio**, seleccione **+ Agregar línea**. 
 
-1. En la lista NODOS ORGANIZATIVOS DISPONIBLES, seleccione En línea y luego el icono agregar ![Icono de flecha derecha](./media/d365-fo-add-org-node-icon.png) para agregarlo a los **NODOS ORGANIZATIVOS SELECCIONADOS**.  
-  Esto agregará el nodo principal y todos los nodos secundarios.
+1.  En el panel **Seleccionar nodos de organización**, para el campo **Jerarquía de organización**, seleccione **Tiendas minoristas por tipo (Fabrikam)** . 
 
-1. Agregue el nodo principal **Correo** y luego seleccione **Aceptar**.
+1.  En la lista NODOS ORGANIZATIVOS DISPONIBLES, seleccione En línea y luego el icono agregar ![Icono de flecha derecha](./media/d365-fo-add-org-node-icon.png) para agregarlo a los **NODOS ORGANIZATIVOS SELECCIONADOS**.
 
-1. Compruebe que se hayan agregado los dos nodos a los canales de Commerce.
+    Esto agregará el nodo principal y todos los nodos secundarios. 
 
-1. Expanda **Productos**.
+1.  Agregue el nodo principal **Correo** y luego seleccione **Aceptar**. 
 
-1. En el menú Productos, seleccione **+ Agregar línea**.
+1.  Compruebe que los dos nodos se han añadido a la pestaña desplegable **Canales de comercio**. 
 
-1. Seleccione el menú **Categoría**, **Deportes de equipo (deportes de equipo)** y, después, **Aceptar**.
+1.  Expanda la pestaña desplegable **Productos**. 
 
-1. De esta manera se agregarán todos los elementos secundarios de la categoría principal.
+1.  En la barra de herramientas **Productos**, seleccione **+Agregar línea**. 
 
-1. Revise la última columna llamada **Tipo de línea**. De manera predeterminada, se incluirán todos los elementos.
+1.  En el campo **Categoría**, expanda **Deportes de equipo (deportes de equipo),** y seleccione **Aceptar**.
 
-1. Seleccione **+ Agregar línea**, el menú **Categoría**, expanda **Deportes de equipo (deportes de equipo)** , **Béisbol** y, a continuación, **Aceptar**.
+    De esta manera se agregarán todos los elementos secundarios de la categoría principal.
 
-1. Para excluir un artículo de una categoría mayor ya incluida, en este caso Deportes de equipo, en la columna Tipo de línea, cambie el valor a **Excluir**.
+1.  Revise la última columna llamada **Tipo de línea**. De manera predeterminada, se incluirán todos los elementos.
 
-1. Con la fila de categoría Béisbol, seleccione el menú **Productos**.
+1.  Seleccione **+ Agregar línea**, el menú **Categoría**, expanda **Deportes de equipo (deportes de equipo)** , **Béisbol** y, a continuación, **Aceptar**. 
 
-1. Cuando se definen productos de una categoría, puede seleccionar un producto específico para incluirlo o excluirlo. Seleccione **AdultBaseballInfield**.
+1.  Para excluir un artículo de una categoría mayor ya incluida, en este caso Deportes de equipo, en la columna **Tipo de línea**, cambie el valor a `Exclude`. 
 
-1. Para eliminar un producto agregado, elimine el contenido del cuadro del producto y luego presione la tecla Tabulador de su teclado o seleccione otra área de la página.
+1.  Con la fila de categoría Béisbol, seleccione el menú **Productos**. 
 
-1. En el menú superior, seleccione **Guardar**.
+1.  Cuando se definen productos de una categoría, puede seleccionar un producto específico para incluirlo o excluirlo. Seleccione **AdultBaseballInfield** o escriba `0013`. 
 
-1. En el menú superior, seleccione **Publicar**.
+    > **Nota:** Para eliminar un producto agregado, elimine el contenido del campo **Producto** y luego presione la tecla Tabulador de su teclado o seleccione otra área de la página. 
 
-1. Revise la información en el cuadro de diálogo y luego seleccione **Sí**.
+1.  En el panel de acciones, seleccione **Guardar** y seleccione **Publicar**. 
 
-1. El surtido de productos recién creado estará disponible en la fecha de vigencia.
+1.  Seleccione **Yes** (Sí) en el cuadro de diálogo de confirmación. El surtido de productos recién creado estará disponible en la **fecha de entrada en vigor**. 
+
