@@ -14,27 +14,51 @@ lab:
 
 ## Instrucciones
 
-1.  En la **página de inicio de Finance and Operations**, en la parte superior derecha, compruebe que esté trabajando con la empresa **USMF**. 
 
-2.  Si es necesario, seleccione el selector de empresa y elija **USMF**. 
+1.  En la página de **inicio de Finance and Operations**, en la parte superior derecha, compruebe que esté trabajando con la empresa **USMF**.
 
-3.  En el panel de navegación izquierdo, en el módulo **Contabilidad general**, seleccione **Plan de cuentas** > **Cuentas** > **Cuentas principales**.
+2.  Si es necesario, seleccione la empresa y, en el menú, seleccione **USMF**.
 
-4.  Seleccione **+Nuevo** en el panel de acciones.
+3.  En el panel de navegación izquierdo, seleccione **Módulos** > **Contabilidad general** > **Plan de cuentas** > **Cuentas** > **Cuentas principales**.
 
-5.  Escriba estos valores en la página **Cuenta principal**: 
+4.  En el panel de acciones, seleccione **+ Nuevo**.
 
-    - Cuenta principal: `601510`
+5.  Escriba estos valores en la página **Cuenta principal**:
 
-    - Nombre: `International call expense`
+    - Cuenta principal: **601510**
 
-    - Tipo de cuenta principal: `Expense`
+    - Nombre: **Gasto en llamadas internacionales**
 
-    - Categoría de cuenta principal: `TANDEEXP`
+    - Tipo de gasto principal: **Expense**
 
-    - Valor predet. Debe/Haber: `Debit`
+    - Categoría de cuenta principal: **TANDEEXP**
 
-    ![Captura de pantalla de la página Cuentas principales - Plan de cuentas: Compartido con los campos del paso 5 cumplimentados](./media/m-002-explore-general-ledgers-in-microsoft-dynamics-365-finance-03.png)
+    - Valor predet. Debe/Haber: **Debe**
 
-6.  Seleccione **Guardar** y **cierre** la página. 
+    ![Captura de pantalla que muestra la página de cuentas principales: compartido donde se deben agregar valores diferentes.](./media/lab-create-a-main-account-01.png)
 
+6.  Vaya a **Módulos &gt; Contabilidad general &gt; Entradas del diario &gt; Diarios generales.**
+
+7.  En el panel de acciones, seleccione **+ Nuevo**.
+
+8.  Escriba el siguiente valor en la página **Diarios generales** y seleccione **Líneas** en el panel de acciones:
+
+    - Nombre: GenJrn
+
+9.  Escriba los valores siguientes en la página **Vale del diario**:
+
+    - Tipo de cuenta: **Libro de contabilidad**
+
+    - Cuenta principal: **601510**
+
+    - Débito: **10,00** 
+
+    - Tipo de cuenta de compensación: **Libro de contabilidad**
+
+    - Número de cuenta de compensación: **110180** 
+
+10. Seleccione el botón **Guardar** en el panel de acciones.
+
+11. Seleccione **Validar &gt; Simular publicación**. 
+
+12. Seleccione el botón **Publicar** en el panel de acciones. El diario debería publicarse.

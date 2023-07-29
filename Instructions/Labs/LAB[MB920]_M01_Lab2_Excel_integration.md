@@ -18,23 +18,25 @@ En este laboratorio, aprenderá a copiar datos de finanzas y operaciones a Excel
 
 ## Instrucciones
 
-Ahora que ya estamos familiarizados con las aplicaciones de Finance and Operations, vamos a dedicar algo de tiempo a explorar el escenario de integración con Excel. 
+Ahora que ya estamos familiarizados con las aplicaciones de Finance and Operations, vamos a dedicar algo de tiempo a explorar el escenario de integración con Excel.
 
-1.  En la **página de inicio de Finance and Operations**, en la parte superior derecha, compruebe que esté trabajando con la empresa **USMF**. 
+1.  Asegúrese de estar en la entidad legal **USMF**.
 
 2.  Vaya a **Adquisición y abastecimiento** > **Configuración** > **Proveedores** > **Grupos de proveedores**.
 
-3.  En el panel de acciones, seleccione **Abrir en Microsoft Office** y, en **Abrir en Excel**, seleccione **Grupos de proveedores (usmf)** .
+3.  Seleccione **Abrir en Microsoft Office** > **Abrir en Excel**.
 
-4.  En el panel **Abrir en Excel** , seleccione **Descargar**. 
+4.  Seleccione **Grupos de proveedores** (usmf) y descargue la plantilla de Excel.
 
-5.  El archivo de plantilla de Excel se descargará y guardará. **Abra** el archivo de plantilla de Excel descargado, omita o permita otros avisos de seguridad estándar si es necesario, cierre la activación y seleccione **Habilitar edición**. Seleccione **Confiar en este complemento** y, a continuación, inicie sesión (utilizando sus mismas credenciales, si se le solicita). 
+5.  Guarde y abra la plantilla de Excel descargada, dele permiso si es necesario, cierre la activación y seleccione **Habilitar edición**. Confíe en este complemento y luego inicie sesión (con las mismas credenciales, si se le piden).
 
-    Una vez iniciada la sesión, la aplicación Data Connector actualiza los datos existentes de la tabla **Grupo de proveedores** y los muestra en la hoja de cálculo Excel. 
+    Todos los datos existentes de la tabla **Grupo de proveedores** aparecen en la hoja de cálculo de Excel.
 
-6.  Para crear un nuevo registro, escriba `100` en el campo **Grupo de proveedores**, `Insurance vendor` en el campo **Descripción** y `Net10` en el campo **Condiciones de pago**. 
+6.  Introduzca un nuevo registro.
 
-7.  Seleccione el botón **Publicar** en el panel de tareas de Microsoft Dynamics Data Connector. 
+7.  Escriba **100** en el campo **Grupo de proveedores**, **Proveedor de seguros** en el campo **Descripción** y **Net10** en el campo **Condiciones de pago**.
 
-8.  Actualice la lista **Grupos de proveedores** en Dynamics 365 Finance and Operations para comprobar que el nuevo registro se ha agregado correctamente. 
+8.  Seleccione el botón **Publicar** en la aplicación de complemento de Office de Microsoft Dynamics.
+
+9.  Abra el formulario **Grupo de proveedores** para confirmar que el nuevo registro se ha agregado.
 
