@@ -14,7 +14,8 @@ lab:
 
 ## Objetivo
 
-Es más común que los pedidos de compra se creen automáticamente como resultado de la planificación maestra, la entrega directa y otros procesos. Cuando se crean de forma manual, los pedidos de compra suelen crearse por un agente de compras. Cree un pedido de compra mediante la empresa USMF. 
+En este laboratorio, se familiarizará con la interfaz de usuario y los distintos campos disponibles en el formulario de pedido de compra. También aprenderá a crear un pedido de compra.
+
 
 ## Configuración del laboratorio
 
@@ -22,91 +23,90 @@ Es más común que los pedidos de compra se creen automáticamente como resultad
 
 ## Instrucciones
 
-1.  En la **página de inicio de Finance and Operations**, en la parte superior derecha, compruebe que esté trabajando con la empresa **USMF**. 
+1. En la página de inicio de Finance and Operations, en la parte superior derecha, compruebe que esté trabajando con la empresa **USMF**. Si es necesario, seleccione la empresa y, en el menú desplegable, seleccione **USMF**.
 
-1.  Si es necesario, seleccione la empresa y, en el menú, seleccione **USMF**. 
+2. En la esquina superior izquierda, seleccione el menú de hamburguesa **Expandir el panel de navegación**.
 
-1.  En la esquina superior izquierda, seleccione el menú de hamburguesa **Expandir el panel de navegación**. 
+3. Seleccione **Módulos** > **Adquisiciones y abastecimiento** > **Pedidos de compra** > **Todos los pedidos de compra**.
 
-1.  En el módulo **Adquisición y aprovisionamiento**, seleccione **Pedidos de compra** > **Todos los pedidos de compra**. 
+4. En la página **Todos los pedidos de compra**, en el menú superior, seleccione **+ Nuevo**.
 
-1.  En la página **Todos los pedidos de compra**, en el panel de acciones, seleccione **+ Nuevo**. 
+5. En el panel **Crear pedido de compra**, seleccione el menú desplegable **Cuenta del proveedor** y, después seleccione **US-101**.
 
-1.  En el panel **Crear pedido de compra**, seleccione el menú **Cuenta del proveedor** y, después, seleccione `US-101`.
+> [!NOTE]
+> Nota: Al seleccionar un proveedor, los detalles del registro del proveedor, como la dirección, la cuenta de la factura, y las condiciones y el modo de entrega, se copian como valores predeterminados en el encabezado del pedido. Puede cambiar estos valores en cualquier momento.
 
-1.  Al seleccionar un proveedor, los detalles del registro del proveedor, como la dirección, la cuenta de la factura, y las condiciones y el modo de entrega, se copiarán como valores predeterminados en el encabezado del pedido de compra. Puede cambiar estos valores si es necesario. 
+6.  Expanda la sección **General** si es necesario.
 
-1.  Expanda la sección **General**. 
+7. En **DIMENSIONES DE ALMACENAMIENTO**, seleccione el menú desplegable **Sitio** y revise la lista de sitios.
 
-1.  Debajo de **DIMENSIONES DE ALMACENAMIENTO**, seleccione el menú **Sitio** y revise la lista de sitios. 
+El campo **Sitio**, junto con el campo **Almacén**, especifican dónde deben entregarse los bienes o servicios adquiridos. La dirección predeterminada de entrega es el sitio.  Ambos campos se pueden rellenan con valores configurados para el proveedor seleccionado, o puede especificarlos manualmente.
 
-    > **Nota**: El campo **Sitio**, junto con el campo **Almacén**, especifica dónde deben entregarse los bienes o servicios adquiridos. La dirección de entrega predeterminada se toma del **sitio**. Ambos campos se pueden rellenan con valores configurados para el proveedor seleccionado, o puede especificarlos manualmente. 
+8.  En **FECHAS**, el campo **Fecha de entrega** se utiliza para especificar cuándo deben entregarse los bienes y servicios adquiridos.
 
-1.  En **Almacenamiento**, escriba o seleccione `13`.
+    Puede especificar una fecha de entrega única para el pedido, o las líneas de pedido individuales pueden tener fechas de entrega únicas.  Si la fecha de entrega especificada aquí no se puede cumplir para bienes o servicios específicos porque tienen plazos de entrega más largos, esas líneas se crean con una fecha de entrega posterior.
 
-1.   En **FECHAS**, el campo **Fecha de entrega** se utiliza para especificar cuándo deben entregarse los bienes y servicios adquiridos.
+9. Expanda la sección **Administración**. El cuadro **Solicitante** se puede utilizar para especificar quién realiza el pedido.
 
-    > **Nota:** Puede especificar una fecha de entrega única para el pedido, o las líneas de pedido individuales pueden tener fechas de entrega únicas. Si la fecha de entrega especificada aquí no se puede cumplir para bienes o servicios específicos porque tienen plazos de entrega más largos, esas líneas se crearán con una fecha de entrega posterior para adaptarse a esta circunstancia.
+    Esto puede ser práctico para compartir con el proveedor en caso de que necesite ponerse en contacto con esa persona. El valor se puede asignar automáticamente si la cuenta de usuario actual está asociada a un nombre de la página **Usuarios**.
 
-1.  Expanda la sección **Administración**. El campo **Solicitante** se puede utilizar para especificar quién realiza el pedido. 
+10. Seleccione **Aceptar**.
 
-    > **Nota**: Esto puede ser práctico para compartir con el proveedor en caso de que necesite ponerse en contacto con esa persona. El valor se puede asignar automáticamente si la cuenta de usuario actual está asociada a un registro de **Persona** en la página **Usuarios**. 
+Se ha creado el encabezado del pedido. Cuando trabaja con líneas de pedidos de compra, solo se muestra un resumen de la información del encabezado. Si necesita ver el resto de la información, seleccione **Encabezado**.
 
-1.  Seleccione **Aceptar**. 
+![Captura de pantalla que muestra el encabezado de los pedidos donde aparece el resumen de la información de estos. La palabra Encabezado aparece resaltada.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-17.png)
 
-1.  Se ha creado el encabezado del pedido. Cuando trabaja con líneas de pedidos de compra, solo se muestra un resumen de la información del encabezado.  Si necesita ver el resto de la información, seleccione **Encabezado**. 
+11. En **Líneas de pedido de compra**, en el menú, seleccione **Línea de pedido de compra**.
 
-    ![Imagen de pantalla que muestra la ubicación del menú Encabezado](./media/lp1-m3-purchase-order-header-option.png)
+![Captura de pantalla que muestra las líneas de pedidos de compra.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-18.png)
 
-1.  En **Líneas de pedido de compra**, en la barra de herramientas, seleccione el menú **Línea de pedido de compra**. 
+12. Debajo de **MOSTRAR**, seleccione **Dimensiones**.
 
-    ![Imagen de pantalla que muestra la ubicación de la opción de menú Línea de pedido de compra](./media/lp1-m3-purchase-order-purchase-order-line-menu.png)
+    Los productos pueden encontrarse en variantes que se diferencian por dimensiones, como color, tamaño o estilo. Los productos también se pueden configurar para usar dimensiones de almacenamiento, como sitio y almacén.  También hay dimensiones de seguimiento opcionales, como números de serie y de lote.  Para mejorar la eficiencia de la entrada de pedidos, puede agregar los campos de dimensión que normalmente utiliza directamente en la cuadrícula de pedidos.
 
-1.  Debajo de **MOSTRAR**, seleccione **Dimensiones**. 
+13.  En el panel **Presentación de dimensiones**, en **DIMENSIONES DEL PRODUCTO**, seleccione el cuadro **Color**.
 
-    > **Nota**: Los productos pueden encontrarse en variantes que se diferencian por dimensiones, como color, tamaño o estilo. Los productos también se pueden configurar para usar dimensiones de almacenamiento, como sitio y almacén.  También hay dimensiones de seguimiento opcionales, como números de serie y de lote.  Para mejorar la eficiencia de la entrada de pedidos, puede agregar los campos de dimensión que normalmente utiliza directamente en la cuadrícula de pedidos. 
+Opcional: Si selecciona el conmutador **Guardar configuración**, las dimensiones que ha elegido también se mostrarán en la cuadrícula de la línea de pedido la próxima vez que abra la página de pedido de compra.
 
-1.  En el panel **Presentación de dimensiones**, en **DIMENSIONES DEL PRODUCTO**, seleccione **Color**. 
+14. Seleccione **Aceptar**.
 
-1.  *Opcional*: Si selecciona el conmutador **Guardar configuración**, las dimensiones que ha elegido también se mostrarán en la cuadrícula de la línea de pedido la próxima vez que abra la página de pedido de compra. 
+15. Seleccione el menú de celda desplegable **Número de producto** y, a continuación, **T0004**.
 
-1.  Seleccione **Aceptar**. 
+Recuerde que también puede escribir el cuadro de filtro en lugar de desplazarse por la lista.
 
-1.  En **Líneas de pedido de compra**, seleccione el campo **Número de artículo** y seleccione **T0004**. 
+Las líneas de pedido se crean para productos y servicios mediante la especificación de un código de producto o como gastos si se especifica una categoría de compras.
 
-    > **Nota:** Recuerde que también puede escribir `T0004`en **Filtro** en lugar de desplazarse por la lista. 
+La categoría de compras se usa para agregar líneas donde los artículos adquiridos se cargan directamente, en lugar de ir al inventario. Si necesita hacer una compra como gasto, puede hacerlo si crea una línea de pedido de compra que especifique una categoría de compras, en lugar de crear una línea con un número de artículo. Los artículos también se pueden asociar a una categoría de compras y, en este caso, la categoría de compra se muestra solo de modo informativo.
 
-    > **Nota:** Las líneas de pedido se crean para productos y servicios mediante la especificación de un **número de artículo** o como gastos si se especifica una **categoría de compras**.
-    > 
-    > La **categoría de compras** se usa para agregar líneas donde los artículos adquiridos se cargan directamente, en lugar de ir al inventario. Esto significa que si necesita cargar una compra como gasto, puede hacerlo si crea una línea de pedido de compra que especifique una **categoría de compras**, en lugar de crear una línea con un **número de artículo**. Los artículos también se pueden asociar a una categoría de compras y, en este caso, la categoría de compra se muestra solo de modo informativo. 
+16. Seleccione el menú desplegable **Color**, revise las opciones disponibles y luego seleccione uno de los colores o combinaciones de colores.
 
-1.  Seleccione el menú **Color**, revise las opciones disponibles y luego seleccione uno de los colores o combinaciones de colores. 
+17. Los campos **Sitio** y **Almacén** generalmente se rellenan con los valores del encabezado del pedido, pero es posible invalidar los campos si algunas líneas deben entregarse en diferentes ubicaciones.
 
-    > **Nota:** El **sitio** y el **almacén** generalmente se rellenan con los valores del encabezado del pedido, pero es posible invalidar los campos si algunas líneas deben entregarse en diferentes ubicaciones. 
+18. En el cuadro **Cantidad**, escriba **10**.
 
-1.  En el campo **Cantidad**, indique `10`. 
+    El campo **Cantidad** se rellena automáticamente con la cantidad de pedido mínima para el producto si está configurado, o con el valor de **1**.
 
-    > **Nota:** El campo **Cantidad** se rellena automáticamente con la **cantidad de pedido mínima** para el **producto** si está configurado, o con el valor de **1**. 
+19. Información adicional:
 
-    > **Nota:** Otros campos de detalles de línea disponibles: 
-    >
-    >    - **Unidad**: indica la unidad de medida para la cantidad pedida. Normalmente, la unidad se obtiene automáticamente de la unidad de compra en los datos maestros de producto. 
-    >
-    >    - **Precio unitario**: contiene un valor de un acuerdo de compra o de un acuerdo comercial. Se puede cambiar el precio unitario en líneas de pedido individuales, por ejemplo, si se negocia un precio único con el proveedor. 
-    >
-    >    - **Descuento**: representa un importe de descuento por unidad. Por tanto, este descuento reduce el precio unitario por el descuento. Este descuento suele darse automáticamente a partir de acuerdos de compra o acuerdos comerciales, pero es posible invalidar en líneas individuales si se han negociado descuentos únicos con el proveedor. 
-    >
-    >    - **Porcentaje de descuento**: cuando se especifica, reduce el importe neto de la línea en consecuencia. El porcentaje de descuento suele darse automáticamente a partir de acuerdos de compra o acuerdos comerciales, pero es posible invalidar en líneas individuales si se ha negociado un porcentaje de descuento único con el proveedor. 
-    >
-    >    - **Importe neto**: se calcula a partir de otros campos de la línea, incluida la cantidad, el precio unitario, el descuento y el porcentaje de descuento. Es posible cambiar el Importe neto, pero entonces los campos Precio unitario, Descuento y Porcentaje de descuento estarán en blanco, y cuando publique para la línea, el importe registrado será proporcional al importe neto. Por lo general, el campo Importe neto solo se usa para mostrar el importe neto de la línea. 
+- **Unidad**: indica la unidad de medida para la cantidad pedida. Normalmente, la unidad se obtiene automáticamente de la unidad de compra en los datos maestros de producto.
 
-1.  En la pestaña **Detalles de línea**, expanda si es necesario y seleccione la pestaña **Entrega**. 
+- **Precio unitario**: contiene un valor de un acuerdo de compra o de un acuerdo comercial. Se puede cambiar el precio unitario en líneas de pedido individuales, por ejemplo, si se negocia un precio único con el proveedor.
 
-    > **Nota**: Se puede asignar una **fecha de entrega** única a cada línea de pedido. La fecha se hereda del campo **Fecha de entrega** del encabezado del pedido de compra, pero puede cambiarla aquí. 
+- **Descuento**: representa un importe de descuento por unidad. Por tanto, este descuento reduce el precio unitario por el descuento. Este descuento suele darse automáticamente a partir de acuerdos de compra o acuerdos comerciales, pero es posible invalidar en líneas individuales si se han negociado descuentos únicos con el proveedor.
 
-1.  Anote el **número de pedido de compra** y **cierre** la página. 
+- **Porcentaje de descuento**: cuando se especifica, reduce el importe neto de la línea en consecuencia. El porcentaje de descuento suele darse automáticamente a partir de acuerdos de compra o acuerdos comerciales, pero es posible invalidar en líneas individuales si se ha negociado un porcentaje de descuento único con el proveedor.
 
-1.  En la vista de lista **Todos los pedidos de compra**, use el **Filtro** para buscar su nuevo pedido de compra. 
+- **Importe neto**: se calcula a partir de otros campos de la línea, incluida la cantidad, el precio unitario, el descuento y el porcentaje de descuento. Es posible cambiar el importe neto, pero los campos Precio unitario, Descuento y Porcentaje de descuento están en blanco. Cuando luego publique hacia la línea, el importe registrado será proporcional al importe neto. Por lo general, el campo Importe neto solo se usa para mostrar el importe neto de la línea.
 
-1.  Cuando termine, **cierre** la página **Todos los pedidos de compra** y vuelva a la página de inicio. 
+20. Debajo de las líneas de pedido de compra, en la parte inferior de la página, seleccione **Detalles de línea**.
+
+21. Seleccione la pestaña **Entrega**.
+
+    Se puede asignar una fecha de entrega única a cada línea de pedido. La fecha se hereda del campo del encabezado del pedido de compra, pero puede cambiarlo.
+
+22.  Cierre la página **Línea de pedido de compra**.
+
+23.  En la página **Todos los pedidos de compra**, use la función Filtro y busque su nuevo pedido de compra.
+
+24. Cuando termine, cierre la página **Todos los pedidos de compra** y vuelva a la página de inicio.
 

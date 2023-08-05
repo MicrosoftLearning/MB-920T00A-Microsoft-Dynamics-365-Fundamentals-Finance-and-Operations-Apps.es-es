@@ -18,57 +18,63 @@ Debe crear un surtido de productos relacionados que se asignen a un canal de com
 
 ## Instrucciones
 
-1.  En la **página de inicio de Finance and Operations**, en la parte superior derecha, compruebe que esté trabajando con la empresa **USMF**. 
+1.  En la página de inicio Finance and Operations, en la parte superior izquierda, seleccione el menú de hamburguesa **Expandir el panel de navegación**.
 
-1.  Si es necesario, seleccione la empresa y, en el menú, seleccione **USMF**. 
+2.  En el panel de navegación, seleccione **Venta minorista y comercio** > **Catálogos y surtidos** > **Surtidos**.
 
-1.  En el panel de navegación izquierdo, en el módulo **Venta minorista y comercio** , seleccione **Catálogos y surtidos** > **Surtidos**. 
+3.  Espere a que se cargue la página.
 
-1.  En la página **Surtidos**, seleccione **+ Nuevo**. 
+4.  En la página **Surtidos**, seleccione **+ Nuevo**.
 
-1.  En el formulario **Nuevo registro**, si es necesario, expanda la ficha desplegable **General**. 
+5.  En el panel **Nuevo registro**, expanda **General**.
 
-1.  Seleccione el cuadro **Fecha de entrada en vigor** y, después, una fecha en el futuro.  
+6.  Seleccione el cuadro **Fecha de vigencia** y, después, una fecha en el futuro.
 
-1.  En el cuadro **Nombre de surtido**, escriba un nombre para el nuevo surtido. Por ejemplo: `New Spring Season`
+7.  En el cuadro **Nombre de surtido**, escriba un nombre para el nuevo surtido. Por ejemplo, **Nueva temporada de primavera**.
 
-    > **Nota**: la **fecha de expiración** se puede utilizar para desactivar automáticamente un surtido publicado. 
+8.  Selecciona la **Fecha de vencimiento** a **Nunca**.
 
-1.  Expanda la ficha desplegable **Canales de comercio**. 
+    La fecha de vencimiento se puede utilizar para desactivar automáticamente una selección publicada.
 
-1.  En el menú **Canales de comercio**, seleccione **+ Agregar línea**. 
+9.  Expanda **Canales de Commerce**.
 
-1.  En el panel **Seleccionar nodos de organización**, para el campo **Jerarquía de organización**, seleccione **Tiendas minoristas por tipo (Fabrikam)** . 
+10. En el menú **Canales de Commerce**, seleccione **+ Agregar línea**.
 
-1.  En la lista NODOS ORGANIZATIVOS DISPONIBLES, seleccione En línea y luego el icono agregar ![Icono de flecha derecha](./media/d365-fo-add-org-node-icon.png) para agregarlo a los **NODOS ORGANIZATIVOS SELECCIONADOS**.
+11. En **Elegir nodos de organización**, seleccione el menú **Jerarquía organizativa** y luego seleccione **Tiendas por tipo (Fabrikam)**.
 
-    Esto agregará el nodo principal y todos los nodos secundarios. 
+12. En la lista **NODOS ORGANIZATIVOS DISPONIBLES**, seleccione **En línea** y luego el icono **Agregar** ![Imagen 15](./media/04-learn-the-fundamentals-of-dynamics-365-commerce-17.png) para agregarlo a los **NODOS ORGANIZATIVOS SELECCIONADOS**.
 
-1.  Agregue el nodo principal **Correo** y luego seleccione **Aceptar**. 
+    Esto se agregará al nodo principal y todos los nodos secundarios.
 
-1.  Compruebe que los dos nodos se han añadido a la pestaña desplegable **Canales de comercio**. 
+13. Agregue el nodo principal **Correo** y luego seleccione **Aceptar**.
 
-1.  Expanda la pestaña desplegable **Productos**. 
+14. Compruebe que se hayan agregado los dos nodos a los canales de Commerce.
 
-1.  En la barra de herramientas **Productos**, seleccione **+Agregar línea**. 
+15. Expanda **Productos**.
 
-1.  En el campo **Categoría**, expanda **Deportes de equipo (deportes de equipo),** y seleccione **Aceptar**.
+16. En el menú **Productos**, seleccione **+ Agregar línea**.
 
-    De esta manera se agregarán todos los elementos secundarios de la categoría principal.
+17. Seleccione el menú **Categoría**, **Deportes de equipo (deportes de equipo)** y, a continuación, **Aceptar**.
 
-1.  Revise la última columna llamada **Tipo de línea**. De manera predeterminada, se incluirán todos los elementos.
+    De esta manera se agregan todos los elementos secundarios de la categoría principal.
 
-1.  Seleccione **+ Agregar línea**, el menú **Categoría**, expanda **Deportes de equipo (deportes de equipo)** , **Béisbol** y, a continuación, **Aceptar**. 
+18. Revise la última columna llamada **Tipo de línea**. De manera predeterminada, se incluyen todos los elementos.
 
-1.  Para excluir un artículo de una categoría mayor ya incluida, en este caso Deportes de equipo, en la columna **Tipo de línea**, cambie el valor a `Exclude`. 
+19. Seleccione **+ Agregar línea**, el menú **Categoría**, expanda **Deportes de equipo (deportes de equipo)** , **Béisbol** y, a continuación, **Aceptar**.
 
-1.  Con la fila de categoría Béisbol, seleccione el menú **Productos**. 
+20. Para excluir un artículo de una categoría mayor ya incluida, en este caso **Deportes de equipo**, en la columna **Tipo de línea**, cambie el valor a **Excluir**.
 
-1.  Cuando se definen productos de una categoría, puede seleccionar un producto específico para incluirlo o excluirlo. Seleccione **AdultBaseballInfield** o escriba `0013`. 
+21. Con la fila de categoría **Béisbol**, seleccione el menú **Productos**.
 
-    > **Nota:** Para eliminar un producto agregado, elimine el contenido del campo **Producto** y luego presione la tecla Tabulador de su teclado o seleccione otra área de la página. 
+22. Cuando se definen productos de una categoría, puede seleccionar un producto específico para incluirlo o excluirlo. Seleccione **AdultBaseballInfield**.
 
-1.  En el panel de acciones, seleccione **Guardar** y seleccione **Publicar**. 
+23. Para eliminar un producto agregado, elimine el contenido del cuadro del producto y luego presione la tecla **Tabulador** de su teclado o seleccione otra área de la página.
 
-1.  Seleccione **Yes** (Sí) en el cuadro de diálogo de confirmación. El surtido de productos recién creado estará disponible en la **fecha de entrada en vigor**. 
+24. En el menú superior, seleccione **Guardar**.
+
+25. En el menú superior, seleccione **Publicar**.
+
+26. Revise la información en el cuadro de diálogo y luego seleccione **Sí**.
+
+    El surtido de productos recién creado está disponible en la fecha de entrada en vigor.
 
