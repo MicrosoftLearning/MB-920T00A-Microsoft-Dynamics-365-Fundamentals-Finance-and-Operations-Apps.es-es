@@ -10,7 +10,7 @@ lab:
 
 ## Objetivo
 
-Los pedidos de producción ayudan a iniciar el proceso de producción en Supply Chain Management. En este laboratorio, se familiarizará con la interfaz de usuario y la funcionalidad del formulario de pedido de producción. Además, aprenderá a crear un pedido de producción al final del ejercicio.
+Los pedidos de producción ayudan a iniciar el proceso de producción en Supply Chain Management. En esta práctica de laboratorio, se familiarizará con la interfaz de usuario y la funcionalidad del formulario de pedido de producción. Además, aprenderá a crear un pedido de producción al final del ejercicio.
 
 ## Configuración del laboratorio
 
@@ -32,9 +32,9 @@ Los pedidos de producción ayudan a iniciar el proceso de producción en Supply 
 
 7.  En **PRODUCCIÓN**, en el cuadro **Entrega**, seleccione una fecha un mes después de la fecha de hoy.
 
-    La fecha de entrega indica cuándo debe finalizar el pedido de producción para entregar a tiempo.  Esta fecha se puede usar en el proceso de programación. Por ejemplo, puede programar el pedido hacia atrás desde la fecha de entrega.
+    La fecha de entrega indica cuándo debe finalizar el pedido de producción para entregar a tiempo. Esta fecha se puede usar en el proceso de programación. Por ejemplo, puede programar el pedido hacia atrás desde la fecha de entrega.
 
-8.  En L. MAT/RUTA, el campo **Número de L. MAT** muestra automáticamente el número de cualquier L. MAT activa para el producto actual, pero puede cambiar la L. MAT del pedido de producción si selecciona una L. MAT activa de la lista de versiones de L. MAT aprobadas.  El campo **Número de ruta** muestra automáticamente el número de cualquier ruta activa para el producto actual, pero puede cambiar la ruta del pedido de producción si selecciona una ruta activa de la lista de versiones de rutas aprobadas.
+8.  En L. MAT/RUTA, el campo **Número de L. MAT** muestra automáticamente el número de cualquier L. MAT activa para el producto actual, pero puede cambiar la L. MAT del pedido de producción si selecciona una L. MAT activa de la lista de versiones de L. MAT aprobadas. El campo **Número de ruta** muestra automáticamente el número de cualquier ruta activa para el producto actual, pero puede cambiar la ruta del pedido de producción si selecciona una ruta activa de la lista de versiones de rutas aprobadas.
 
     ![Captura de pantalla que muestra la página Crear pedido de producción. Los campos Número de artículo y Entrega están resaltados.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-40.png)
 

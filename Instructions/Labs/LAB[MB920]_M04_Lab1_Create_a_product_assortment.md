@@ -56,9 +56,9 @@ Debe crear un surtido de productos relacionados que se asignen a un canal de com
 
 17. Seleccione el menú **Categoría**, **Deportes de equipo (deportes de equipo)** y, a continuación, **Aceptar**.
 
-    De esta manera se agregan todos los elementos secundarios de la categoría principal.
+    De esta manera se agregan todos los elementos secundarios de la categoría primaria.
 
-18. Revise la última columna llamada **Tipo de línea**. De manera predeterminada, se incluyen todos los elementos.
+18. Revise la última columna llamada **Tipo de línea**. Todos los elementos se incluyen de forma predeterminada.
 
 19. Seleccione **+ Agregar línea**, el menú **Categoría**, expanda **Deportes de equipo (deportes de equipo)** , **Béisbol** y, a continuación, **Aceptar**.
 
