@@ -10,7 +10,7 @@ lab:
 
 ## Objetivo
 
-En Contoso Entertainment System USA (USMF), tiene previsto comprar un nuevo modelo de un armario de un proveedor.  Tiene que crear un elemento para representar el nuevo modelo.  En este laboratorio, aprenderá a crear un elemento y configuraciones de elementos.
+En Contoso Entertainment System USA (USMF), planea comprar una nueva configuración de un armario de un proveedor. Debe crear un elemento para representar la nueva configuración. En este laboratorio, aprenderá a crear un elemento y configuraciones de elementos.
 
 ## Configuración del laboratorio
 
@@ -18,7 +18,7 @@ En Contoso Entertainment System USA (USMF), tiene previsto comprar un nuevo mode
 
 ## Instrucciones
 
-En Contoso Entertainment System USA (USMF), tiene previsto comprar un nuevo modelo de un armario de un proveedor.  Tiene que crear un elemento para representar el nuevo modelo. 
+En Contoso Entertainment System USA (USMF), tiene previsto comprar un nuevo modelo de un armario de un proveedor. Debe crear un elemento para representar la nueva configuración.
 
 1.  En la página de inicio de Finance and Operations, en la parte superior derecha, compruebe que esté trabajando con la empresa **USMF**. Seleccione **USMF** en el menú desplegable de la empresa si es necesario.
 
@@ -36,13 +36,13 @@ En Contoso Entertainment System USA (USMF), tiene previsto comprar un nuevo mode
 
 8.  En el cuadro **Nombre de producto**, escriba **Armario 2**.
 
-    ![Captura de pantalla que muestra la vista estándar de la nueva página de creación de productos.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-07.png)
+    ![La captura de pantalla muestra la vista estándar de la página de creación de nuevos productos.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-07.png)
 
 9.  Seleccione el botón **Aceptar**.
 
 10. En el menú **Producto** del panel de acciones, seleccione **Grupos de dimensiones** en el grupo **Configurar** .
 
-    ![Captura de pantalla que muestra la opción de configuración en el menú del producto donde se pueden agregar los diferentes detalles del grupo de dimensiones.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-08.png)
+    ![La captura de pantalla muestra la opción de configuración en el menú del producto donde se pueden agregar los diferentes detalles del grupo de dimensiones.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-08.png)
 
 11. Seleccione el menú desplegable **Grupo de dimensiones de almacenamiento** y seleccione **SiteWH**.
 
@@ -54,7 +54,7 @@ En Contoso Entertainment System USA (USMF), tiene previsto comprar un nuevo mode
 
 15. Se abre una página que muestra el primer paso como **Seleccionar productos para publicar**.
 
-    ![Captura de pantalla que muestra la vista estándar de la página de productos de publicación de productos.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-09.png)
+    ![La captura de pantalla muestra la vista estándar de la página de liberación de productos.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-09.png)
 
 16. Seleccione el botón **Siguiente** situado en la parte inferior de la página.
 
@@ -66,9 +66,9 @@ En Contoso Entertainment System USA (USMF), tiene previsto comprar un nuevo mode
 
 20. Seleccione el botón **Finalizar** ubicado en la parte inferior de la página.
 
-21. En el panel de navegación, seleccione Módulos y, a continuación, seleccione Gestión de información del producto. A continuación, en el menú Productos, seleccione **Productos publicados**.
+21. En el panel de navegación, seleccione Módulos y luego Administración de información de productos. A continuación, en el menú Productos, seleccione **Productos publicados**.
 
-22. En la página **Productos de** **publicados**, busque el nuevo elemento **GTL007** en la cuadrícula. 
+22. En la página **Productos** **publicados**, busque el nuevo elemento **GTL007** en la cuadrícula. 
 
 23. Seleccione el vínculo del producto y vaya a la página **Detalles del producto**.
 
@@ -104,7 +104,7 @@ En Contoso Entertainment System USA (USMF), tiene previsto comprar un nuevo mode
 
     - **Grupo de artículos**: audio
 
-30. Para completar la configuración, seleccione Producto en el panel de acciones. Seleccione el botón Validar en el grupo Mantener.
+30. Para completar la configuración, seleccione Producto en el Panel de acciones. Seleccione el botón Validar en el grupo Mantener.
 
     ![Captura de pantalla que muestra el grupo Mantener bajo el botón Producto en el panel de acciones. El botón Validar del grupo Mantener está seleccionado.](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-10.png)
 

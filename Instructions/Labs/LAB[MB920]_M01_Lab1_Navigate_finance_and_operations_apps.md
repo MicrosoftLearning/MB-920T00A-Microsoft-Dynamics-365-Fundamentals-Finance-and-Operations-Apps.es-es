@@ -47,7 +47,7 @@ Ahora que se ha familiarizado con las aplicaciones de finanzas y operaciones, po
 
     - Un calendario y los elementos de trabajo que tiene asignados.
 
-    -  La barra Buscar que resulta muy útil para encontrar rápidamente lo que necesita.
+    - La barra Buscar que resulta muy útil para encontrar rápidamente lo que necesita.
 
     - En la esquina superior derecha, aparece la empresa con la que está trabajando actualmente, así como notificaciones, opciones de configuración y vínculos de ayuda. Compruebe que la empresa en la lista es **USMF**.
 
@@ -87,9 +87,9 @@ Ahora que se ha familiarizado con las aplicaciones de finanzas y operaciones, po
 
 17. Vaya a **Todos los proveedores** Proveedores > Proveedores.
 
-18. Es posible que deba esperar la primera vez que busque una página.  Hay un pequeño círculo giratorio a la derecha del cuadro de búsqueda mientras se procesa la búsqueda.
+18. Es posible que deba esperar la primera vez que busque una página. Hay un pequeño círculo giratorio a la derecha del cuadro de búsqueda mientras se procesa la búsqueda.
 
-19. La página **Todos los proveedores** es un ejemplo de una página de lista. La página de lista generalmente contiene datos maestros que se pueden leer, crear, eliminar y actualizar.  Hay más características a través de la cinta de opciones situada encima de la lista.
+19. La página **Todos los proveedores** es un ejemplo de una página de lista. La página de lista generalmente contiene datos maestros que se pueden leer, crear, eliminar y actualizar. Hay más características a través de la cinta de opciones situada encima de la lista.
 
     ![Captura de pantalla de la lista Todos los proveedores con las características del menú resaltadas.](./media/lab-navigate-finance-and-operations-apps-06.png)
 
@@ -101,7 +101,7 @@ Ahora que se ha familiarizado con las aplicaciones de finanzas y operaciones, po
 
     ![Captura de pantalla del título de la columna Grupo de proveedores para Acme Office Supplies.](./media/lab-navigate-finance-and-operations-apps-07.png)
 
-23.  Muchos menús ofrecen la posibilidad de clasificación y filtrado.  Utilice los filtros para localizar rápidamente el contenido del campo que está buscando.
+23. Muchos menús ofrecen la posibilidad de clasificación y filtrado. Utilice los filtros para localizar rápidamente el contenido del campo que está buscando.
 
 24. En la parte superior derecha, observe la funcionalidad adicional. Mueva el mouse a cada elemento y revise la descripción de la característica. Cuando termine, seleccione el icono **Cerrar** para cerrar la página y volver a la página **Inicio**.
 
