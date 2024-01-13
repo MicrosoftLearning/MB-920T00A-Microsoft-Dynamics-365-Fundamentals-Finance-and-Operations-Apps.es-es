@@ -103,7 +103,7 @@ Ahora que se ha familiarizado con las aplicaciones de finanzas y operaciones, po
 
 23. Muchos menús ofrecen la posibilidad de clasificación y filtrado. Utilice los filtros para localizar rápidamente el contenido del campo que está buscando.
 
-24. En la parte superior derecha, observa las funciones adicionales. Pasa el cursor sobre cada elemento y revisa las características resaltadas. Al finalizar, selecciona el icono **Atrás** situado en el otro extremo de la barra de herramientas para cerrar la página y volver a la página anterior.
+24. En la parte superior derecha, observe la funcionalidad adicional. Mueva el mouse a cada elemento y revise la descripción de la característica. Cuando termine, seleccione el icono **Cerrar** para cerrar la página y volver a la página **Inicio**.
 
     ![Captura de pantalla del menú de la esquina superior derecha de la página de lista que muestra características adicionales para conectarse a Power Apps, las aplicaciones de Office, Datos adjuntos del documento, Actualizar página, Abrir en una nueva ventana y los botones Cerrar.](./media/lab-navigate-finance-and-operations-apps-08.png)
 
