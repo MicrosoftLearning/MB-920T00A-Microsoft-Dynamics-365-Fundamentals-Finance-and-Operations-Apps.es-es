@@ -62,7 +62,7 @@ Se ha creado el encabezado del pedido. Cuando trabaja con líneas de pedidos de 
 
 12. Debajo de **MOSTRAR**, seleccione **Dimensiones**.
 
-    Los productos pueden encontrarse en variantes diferenciadas por dimensiones, como color, tamaño o estilo. Los productos también se pueden configurar para usar dimensiones de almacenamiento, como sitio y almacén. También hay dimensiones de seguimiento opcionales, como números de serie y de lote. Para mejorar la eficiencia de la entrada de pedidos, puede agregar los campos de dimensión que normalmente utiliza directamente en la cuadrícula de pedidos.
+    Los productos pueden encontrarse en variantes diferenciadas por dimensiones, como color, tamaño o estilo. Los productos también se pueden configurar para usar dimensiones de almacenamiento, como sitio y almacén. También hay dimensiones de seguimiento opcionales, como números de serie y lote. Para mejorar la eficiencia de la entrada de pedidos, puede agregar los campos de dimensión que normalmente utiliza directamente en la cuadrícula de pedidos.
 
 13. En el panel **Presentación de dimensiones**, en **DIMENSIONES DEL PRODUCTO**, seleccione el cuadro **Color**.
 
