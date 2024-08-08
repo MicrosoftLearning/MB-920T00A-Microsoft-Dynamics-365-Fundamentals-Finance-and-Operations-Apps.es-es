@@ -22,9 +22,9 @@ Ahora que ya estamos familiarizados con las aplicaciones de Finance and Operatio
 
 1.  Asegúrese de estar en la entidad legal **USMF**.
 
-2.  Vaya a **Adquisición y abastecimiento** > **Configuración** > **Proveedores** > **Grupos de proveedores**.
+2.  Ve a **Adquisición y abastecimiento**> **Configuración** > **Proveedores** > **Grupos de proveedores**.
 
-3.  Seleccione **Abrir en Microsoft Office** > **Abrir en Excel**.
+3.  En la esquina superior derecha, selecciona **Abrir en Microsoft Office** > **Abrir en Excel**.
 
 4.  Seleccione **Grupos de proveedores** (usmf) y descargue la plantilla de Excel.
 
@@ -32,7 +32,7 @@ Ahora que ya estamos familiarizados con las aplicaciones de Finance and Operatio
 
     Todos los datos existentes de la tabla **Grupo de proveedores** aparecen en la hoja de cálculo de Excel.
 
-6.  Introduzca un nuevo registro.
+6.  Introduce un nuevo registro en la primera posición del nuevo grupo de proveedores.
 
 7.  Escriba **100** en el campo **Grupo de proveedores**, **Proveedor de seguros** en el campo **Descripción** y **Net10** en el campo **Condiciones de pago**.
 

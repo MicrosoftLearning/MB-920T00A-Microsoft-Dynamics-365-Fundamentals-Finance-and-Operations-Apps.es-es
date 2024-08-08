@@ -57,11 +57,11 @@ En este laboratorio, harás las siguientes actividades:
 
     - Descripción: **Calendario de Demo Systems**
 
-    - Inicio del ejercicio: **1/10/2023**
+    - Inicio del ejercicio: **30/9/2024**
 
-    - Fin del ejercicio: **30/9/2023**
+    - Fin del ejercicio: **01/10/2024**
 
-    - Nombre del ejercicio: **2023-24**
+    - Nombre del ejercicio: **2024-25**
 
     - Longitud del período: **1**
 
