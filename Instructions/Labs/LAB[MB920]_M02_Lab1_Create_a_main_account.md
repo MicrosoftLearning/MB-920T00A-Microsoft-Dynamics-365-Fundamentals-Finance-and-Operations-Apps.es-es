@@ -59,7 +59,7 @@ En este laboratorio, harás las siguientes actividades:
 
     - Inicio del ejercicio: **30/9/2024**
 
-    - Fin del ejercicio: **01/10/2024**
+    - Fin del ejercicio: **1/10/2024**
 
     - Nombre del ejercicio: **2024-25**
 
