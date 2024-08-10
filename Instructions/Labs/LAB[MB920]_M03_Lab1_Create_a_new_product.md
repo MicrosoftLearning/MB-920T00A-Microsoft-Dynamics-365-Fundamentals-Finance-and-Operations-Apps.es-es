@@ -21,11 +21,12 @@ En tu organización, tienes previsto crear un nuevo artículo, una camisa. La ca
 
 2. En la ficha desplegable **Líneas de grupo de colores**, escribe los tres registros siguientes:
 
-| **Color**| **Nombre del color** |
-| - |
-| Azul| Azul |
-| Blanco| Blanco |
-| Negro| Negro |
+    | **Color** | **Nombre del color** |
+    |-----------|----------------|
+    | Azul      | Azul           |
+    | Blanco     | Blanco          |
+    | Negro     | Negro          |
+
 
 3. Guarde los registros.
 
@@ -37,11 +38,12 @@ En tu organización, tienes previsto crear un nuevo artículo, una camisa. La ca
 
 5. En la ficha desplegable **Líneas de grupo de tamaños**, escribe los tres registros siguientes.
 
-| **Tamaño**| **Nombre del tamaño** |
-| - |
-| S| Pequeño |
-| M| Mediano |
-| L| Grande |
+    | **Tamaño** | **Nombre del tamaño** |
+    |----------|---------------|
+    | S        | Pequeño         |
+    | M        | Mediano        |
+    | L        | Grande         |
+
 
 6. Guarda los registros
 
