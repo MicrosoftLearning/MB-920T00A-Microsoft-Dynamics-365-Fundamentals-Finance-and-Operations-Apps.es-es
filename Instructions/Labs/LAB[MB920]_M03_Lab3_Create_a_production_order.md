@@ -89,6 +89,8 @@ Se crea un nuevo diario de lista de selección con tres líneas.
 
 21. Publica el diario de la lista de picking.
 
+Si es necesario, selecciona **Aceptar** en la ventana Publicar diario.
+
 22. Vuelve a la página **Todas las órdenes de producción** y selecciona **Ver (menú del panel de acciones) &gt; Diarios &gt; Tarjeta de ruta**.
 
 Se crea un nuevo diario de tarjeta de ruta con tres líneas.

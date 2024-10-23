@@ -101,11 +101,13 @@ Las variantes se crearán en la página Variantes del producto.
 
 32. Selecciona el botón **Finalizar** ubicado en la parte inferior de la página.
 
-16. En el panel de navegación, selecciona **Módulos** y luego **Gestión de información de productos**. Luego, en el menú **Productos**, selecciona **Productos emitidos**.
+33. En la parte superior derecha, cambia a **USMF** como entidad jurídica.
+
+34. En el panel de navegación, selecciona **Módulos** y luego **Gestión de información de productos**. Luego, en el menú **Productos**, selecciona **Productos emitidos**.
 
 33. En la página **Productos emitidos**, busca el nuevo artículo **SH001** en la cuadrícula.
 
-34. Selecciona el vínculo del producto y ve a la página **Detalles del producto**.
+34. Selecciona el vínculo del producto y ve a la página **Detalles del producto emitido**.
 
 35. En la ficha desplegable **General**, especifica lo siguiente:
 
@@ -137,7 +139,7 @@ Las variantes se crearán en la página Variantes del producto.
 
 40. En la ficha desplegable **Administrar costes**, escribe lo siguiente:
 
-    - Grupo de artículos: **audio**
+    - Grupo de artículos: **Audio**
 
 41. Para completar la configuración, selecciona **Producto** en el panel de acciones. Selecciona el botón **Validar** en el grupo **Mantener**.
 

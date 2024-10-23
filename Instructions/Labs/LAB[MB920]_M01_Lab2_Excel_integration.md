@@ -28,7 +28,7 @@ Ahora que ya estamos familiarizados con las aplicaciones de Finance and Operatio
 
 4.  Selecciona **Grupos de proveedores** (usmf) y descargue la plantilla de Excel.
 
-5.  Guarda y abre la plantilla de Excel descargada, dale permiso si es necesario, cierra la activación y selecciona **Habilitar edición**. Confía en este complemento y luego inicia sesión (con las mismas credenciales, si se te piden).
+5.  Guarda y luego abre la plantilla de Excel descargada, autorízala si es necesario, cierra la activación y selecciona **Habilitar la edición**. Confía en este complemento y luego inicia sesión (con las mismas credenciales, si se te piden).
 
     Todos los datos existentes de la tabla **Grupo de proveedores** aparecen en la hoja de cálculo de Excel.
 
