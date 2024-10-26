@@ -27,10 +27,15 @@ Ahora que se ha familiarizado con las aplicaciones de Finance and Operations, po
 
     - Contraseña: `pass@word1`
 
+1.  Este laboratorio se ha configurado para aprovisionar automáticamente tu cuenta de usuario administrador. Una vez completado, Edge se abrirá automáticamente y te pedirá que inicies sesión. Puedes iniciar sesión con las credenciales proporcionadas que se encuentran en la pestaña Recursos. Si se produce un error en este proceso, revisa la nota siguiente. De lo contrario, puedes avanzar con el laboratorio. 
+
+    >En el Escritorio, haz doble clic en AdminUserProvisioning.
+En el campo Dirección de correo electrónico, escribe el nombre de usuario en **Recursos** y, a continuación, haz clic en Enviar.
+Espera a que se te pida que informes al usuario administrador actualizado correctamente para... A continuación, haga clic en Aceptar.   
+
 1.  **Microsoft Edge** abrirá la dirección URL de Finance and Operations: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
 1.  Inicie sesión con el nombre de usuario y la contraseña facilitados en el menú **Recursos**. 
-
 
 ### Navegar por las aplicaciones de Finance and Operations
 
@@ -50,7 +55,7 @@ Ahora que se ha familiarizado con las aplicaciones de finanzas y operaciones, po
 
     - En la esquina superior derecha, aparece la empresa con la que está trabajando actualmente, así como notificaciones, opciones de configuración y vínculos de ayuda. Compruebe que la empresa en la lista es **USMF**.
 
-    ![Captura de pantalla de la página de inicio de Dynamics 365 Finance and Operations con áreas resaltadas.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg)
+    ![Captura de pantalla de la página de inicio de Dynamics 365 Finance and Operations con áreas resaltadas.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-13.svg)
 2.  En la esquina superior izquierda, seleccione el menú de hamburguesa **Expandir el panel de navegación**.
 
 3.  El panel de navegación es donde encontrará colecciones de **Favoritos**, elementos **Recientes**, **Áreas de trabajo** y **Módulos**.
@@ -67,7 +72,7 @@ Ahora que se ha familiarizado con las aplicaciones de finanzas y operaciones, po
 
 9.  En la **Página de inicio**, en la esquina superior derecha, seleccione el icono **Configuración** y luego **Opciones de usuario**.
 
-    ![Captura de pantalla del icono Configuración y la lista desplegable Opciones de usuario.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-15.svg)
+    ![Captura de pantalla del icono Configuración y la lista desplegable Opciones de usuario.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg)
 
 10. En la página **Opciones**, utilice las pestañas para establecer las diferentes opciones de configuración que se aplicarán a su cuenta.
 
@@ -87,13 +92,15 @@ Ahora que se ha familiarizado con las aplicaciones de finanzas y operaciones, po
 
 18. Es posible que deba esperar la primera vez que busque una página. Un pequeño círculo giratorio a la derecha del cuadro de búsqueda durante el proceso de búsqueda.
 
-19. 19. La página **Todos los clientes** es un ejemplo de una página de lista. La página de lista generalmente contiene datos maestros que se pueden leer, crear, eliminar y actualizar. Hay más características disponibles en la barra de herramientas situada encima de la lista.
+19. La página **Todos los clientes** es un ejemplo de una página de lista. La página de lista generalmente contiene datos maestros que se pueden leer, crear, eliminar y actualizar. Hay más características disponibles en la barra de herramientas situada encima de la lista.
 
-    ![Captura de pantalla de la lista Todos los proveedores con las características del menú resaltadas.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-13.svg)
+    ![Captura de pantalla de la lista Todos los proveedores con las características del menú resaltadas.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-15.svg)
 
 20. Resalta uno de los clientes de la lista y, a la derecha, selecciona el menú **Información relacionada** y revisa la información que se proporciona.
 
-21. 21. En la lista **Clientes**, selecciona **Contoso Retail San Dieg**.
+    ![Captura de pantalla de la lista Todos los proveedores con las características del menú resaltadas.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-19.png)
+
+21. En la lista **Clientes**, selecciona **Contoso Retail San Diego**.
 
 22. Selecciona el menú **Grupo** y después selecciona el título de columna **Grupo de clientes**.
 
@@ -105,9 +112,5 @@ Ahora que se ha familiarizado con las aplicaciones de finanzas y operaciones, po
 
     ![Captura de pantalla del menú de la esquina superior derecha de la página de lista que muestra características adicionales para conectarse a Power Apps, las aplicaciones de Office, Datos adjuntos del documento, Actualizar página, Abrir en una nueva ventana y los botones Cerrar.](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-17.svg)
 
-25. En la parte superior derecha, seleccione el icono de signo de interrogación **Ayuda** y luego seleccione **Ayuda**.
 
-26. Observe que la información de ayuda está relacionada con la página actual.
-
-27. Trate de seleccionar un icono de área de trabajo y luego revise la información de ayuda de dicha área de trabajo. Al finalizar, vuelva a la página **Inicio**.
 

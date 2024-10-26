@@ -59,7 +59,7 @@ En este laboratorio, harás las siguientes actividades:
 
     - Inicio del ejercicio: **30/9/2024**
 
-    - Fin del ejercicio: **1/10/2024**
+    - Fin del año fiscal: **1/10/2025**
 
     - Nombre del ejercicio: **2024-25**
 
@@ -87,7 +87,7 @@ El sistema generará 14 períodos, incluyendo una apertura y un período de cier
 
     - Nombre: **Cash**
 
-    - Tipo de gasto principal: **Balance**
+    - Tipo de cuenta principal: **Balance**
 
     - Categoría de cuenta principal: **CASH**
 
@@ -99,7 +99,7 @@ El sistema generará 14 períodos, incluyendo una apertura y un período de cier
 
     - Nombre: **Revenue**
 
-    - Tipo de gasto principal: **Ingresos**
+    - Tipo de cuenta principal: **Ingreso**
 
     - Categoría de cuenta principal: **REV**
 
@@ -111,7 +111,7 @@ El sistema generará 14 períodos, incluyendo una apertura y un período de cier
 
     - Nombre: **Gastos de viaje**
 
-    - Tipo de gasto principal: **Expense**
+    - Tipo de cuenta principal: **Gasto**
 
     - Categoría de cuenta principal: **EXP**
 
@@ -125,7 +125,7 @@ El sistema generará 14 períodos, incluyendo una apertura y un período de cier
 
     - Nombre: **CDS_Training**
 
-3. En el panel de acciones, selecciona el botón Nuevo seguido del tipo de unidad operativa Centro de costes y escribe el siguiente valor:
+3. En el panel de acciones, selecciona el botón **Nuevo** seguido del tipo de unidad operativa **Centro de costes** y escribe el siguiente valor:
 
     - Nombre: **CDS_Purchase**
 
@@ -179,7 +179,7 @@ El sistema generará 14 períodos, incluyendo una apertura y un período de cier
 
 14. En la ficha desplegable **Segmentos y valores permitidos**, selecciona el botón **Agregar** para agregar el **intervalo de cuentas principales 6000..9999**.
 
-15. Selecciona el botón **Segmento** en la ficha desplegable **Segmentos y valores permitidos**.
+15. Selecciona el botón **Agregar segmento** en la ficha desplegable **Segmentos y valores permitidos**.
 
 16. En el cuadro de diálogo **Agregar segmento**, selecciona **CostCenter** seguido del botón **Agregar segmento**.
 
@@ -193,7 +193,7 @@ El sistema generará 14 períodos, incluyendo una apertura y un período de cier
 
 2. Si es necesario, selecciona la empresa y, en el menú, selecciona **CDS**.
 
-3. En el panel de navegación izquierdo de Dynamics 365 Finance, selecciona la página **Módulos** > **Contabilidad general &gt; Configuración &gt; Libro de contabilidad** y configura lo siguiente:
+3. En el panel de navegación izquierdo de Dynamics 365 Finance, selecciona la página **Módulos** > **Contabilidad general &gt; Configuración de contabilidad &gt; Libro de contabilidad** y configura lo siguiente:
 
     - Plan de cuentas: **Demo Systems**
 
@@ -208,6 +208,8 @@ El sistema generará 14 períodos, incluyendo una apertura y un período de cier
     - Tipo de tipo de cambio de presupuesto: **Presupuesto**
 
 4. En la ficha desplegable **Estructura contable**, selecciona el botón **Agregar** para agregar la estructura contable **CDS_BS**.
+
+> Si es necesario, selecciona **Sí** para Agregar una estructura de cuenta.
 
 5. Agrega dos estructuras contables más: **CDS_Revenue** y **CDS_Expense**.
 
